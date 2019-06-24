@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+
+</head>
+
+<body>
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+    <!-- <script src="" async defer></script> -->
+    <div class="container">
+        <div>
+            <h3>Flight information display system</h3>
+        </div>
+        <div class="card" style="position:relative; float:right; padding:10px;">
+            <form>
+                <div class="form-group">
+                    <label for="inp_airport">
+                        <h4>Airport</h4>
+                    </label>
+                    <select class="custom-select custom-select-sm" id="inp_airport">
+                        <option selected>Select</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <div id="dt_time_grp" class="form-row">
+                        <div class="col">
+                            <label for="inp_date">
+                                Date
+                            </label>
+                            <input type="date" class="form-control form-control-sm" id="inp_date">
+                        </div>
+                        <div class="col">
+                            <label for="inp_time">
+                                Time
+                            </label>
+                            <input type="time" class="form-control form-control-sm" id="inp_time" step='60'
+                                value="12:00"></div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="inp_ad">Arrivals/Departures</label>
+                    <select class="custom-select custom-select-sm" id="inp_ad">
+                        <option value='departures'>Departures</option>
+                        <option value="arrivals">Arrivals</option>
+                    </select>
+                </div>
+                <button type="button" onclick="get_schedule()" class="btn btn-primary">Get Schedule</button>
+            </form>
+        </div>
+        <div id='base' class="card" style="position:relative; float:left;">
+            <div class="card-header" id='table_panel'><h4>Panel heading</h4></div>
+            <table class="table table-bordered table-dark">
+                <thead>
+                    <tr id='head_row'>
+                        <th scope="col" style="width:5%">Terminal</th>
+                        <th scope="col" style="width:5%">Flight</th>
+                        <th scope="col" style="width:auto">Destination</th>
+                        <th scope="col" style="width:5%">Time</th>
+                        <th scope="col" style="width:10%">Gate</th>
+                        <th scope="col" style="width:10%">Status</th>
+                    </tr>
+                </thead>
+                <tbody id="table_body">
+                    <tr>
+                        <td scope="row">Eg terminal</td>
+                        <td>Eg airways</td>
+                        <td>Eg city</td>
+                        <td>HH:MM</td>
+                        <td>T0</td>
+                        <td>Status</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script type='text/javascript'>
+        async function get_key() {
+            let aviation_edge = null
+            fetch('aviation_edge.json')
+                .then(resp => {
+                    return resp.json()
+                })
+                .then(json => {
+                    aviation_edge = json
+                })
+                .catch(e => console.error(e))
+            return aviation_edge.key
+        }
+
+        async function get_schedule() {
+            let inp_date = document.getElementById('inp_date').value
+            let inp_time = document.getElementById('inp_time').value
+            let inp_airport = document.getElementById('inp_airport').value
+            let inp_timestamp = Date.parse(inp_date + "T" + inp_time + ":00.000")
+            console.log(inp_timestamp)
+            let inp_ad = document.getElementById('inp_ad').value
+
+            get_str = `/schedule?cityIata=${inp_airport}&ad=${inp_ad}&timestamp=${inp_timestamp}`
+            resp = await fetch(get_str)
+            data = await resp.json()
+            console.log(data)
+
+
+            if (inp_ad === "departures") {
+                document.getElementById('table_panel').innerHTML = "<h4>Departures</h4>"
+            }
+            else {
+                document.getElementById('head_row').children[2].textContent = "From"
+                document.getElementById('table_panel').innerHTML = "<h4>Arrivals</h4>"
+            }
+
+
+            let iata_codes = await fetch('iata-airport-codes.json')
+            iata_codes = await iata_codes.json()
+
+            table_body = document.getElementById('table_body')
+
+            while (table_body.children.length) table_body.removeChild(table_body.children[0])
+            data.forEach((element, idx) => {
+                let row = document.createElement('tr')
+
+                let term = document.createElement('td')
+                let flight = document.createElement('td')
+                let destination = document.createElement('td')
+                let fl_time = document.createElement('td')
+                let gate = document.createElement('td')
+                let status = document.createElement('td')
+
+                term.setAttribute('scope', 'row')
+                if (inp_ad === "d") {
+                    term.textContent = element.departure.terminal ? element.departure.terminal : "TBA"
+                    destination.textContent = iata_codes[element.arrival.iataCode] ? iata_codes[element.arrival.iataCode] : element.arrival.iataCode
+                    fl_time.textContent = element.departure.scheduledTime ? element.departure.scheduledTime.split('T')[1].substr(0, 5) : "TBA"
+                    gate.textContent = element.departure.gate ? element.departure.gate : "TBA"
+
+                    if (new Date(element.departure.actualTime) < new Date(inp_timestamp)) {
+                        status.textContent = "Departed"
+                        status.setAttribute('class', 'text-secondary')
+                    }
+                    else if (element.departure.delay && parseInt(element.departure.delay) > 10) {
+                        status.textContent = 'Delayed'
+                        status.setAttribute('class', 'text-warning')
+                    } else if (element.status.toLowerCase() === 'cancelled') {
+                        status.textContent = 'Cancelled'
+                        status.setAttribute('class', 'text-danger')
+                    } else {
+                        status.textContent = "On Time"
+                        status.setAttribute('class', 'text-success')
+                    }
+                } else {
+                    term.textContent = element.arrival.terminal ? element.arrival.terminal : "TBA"
+                    destination.textContent = iata_codes[element.departure.iataCode] ? iata_codes[element.departure.iataCode] : element.departure.iataCode
+                    fl_time.textContent = element.arrival.scheduledTime ? element.arrival.scheduledTime.split('T')[1].substr(0, 5) : "TBA"
+                    gate.textContent = element.arrival.gate ? element.arrival.gate : "TBA"
+                    if (new Date(element.arrival.actualTime) < new Date(inp_timestamp)) {
+                        status.textContent = "Landed"
+                        status.setAttribute('class', 'text-secondary')
+                    } else if (element.arrival.delay && parseInt(element.arrival.delay) > 10) {
+                        status.textContent = 'Delayed'
+                        status.setAttribute('class', 'text-warning')
+                    } else if (element.status.toLowerCase() === 'cancelled') {
+                        status.textContent = 'Cancelled'
+                        status.setAttribute('class', 'text-danger')
+                    } else {
+                        status.textContent = "On Time"
+                        status.setAttribute('class', 'text-success')
+                    }
+                }
+                flight.textContent = element.flight.iataNumber
+
+                row.appendChild(term)
+                row.appendChild(flight)
+                row.appendChild(destination)
+                row.appendChild(fl_time)
+                row.appendChild(gate)
+                row.appendChild(status)
+                table_body.appendChild(row)
+            })
+        }
+
+        (function todays_dt() {
+            inp_date = document.getElementById('inp_date')
+            inp_time = document.getElementById('inp_time')
+            dt = new Date()
+            inp_date.value = dt.getFullYear() + "-" + ((dt.getMonth() + 1) > 9 ? (dt.getMonth() + 1) : '0' + (dt.getMonth() + 1)) + "-" + dt.getDate()
+            inp_time.value = dt.getHours() + ":" + dt.getMinutes()
+        })()
+
+        async function populate_airport() {
+
+            let iata_codes = await fetch('us-iata_proc.json')
+            iata_codes = await iata_codes.json()
+            inp_airport = document.getElementById('inp_airport')
+            for (let code in iata_codes) {
+                airport_option = document.createElement('option')
+                airport_option.value = code
+                airport_option.text = code +' - '+ iata_codes[code]
+                inp_airport.appendChild(airport_option)
+            }
+        }
+        populate_airport()
+
+
+    </script>
+</body>
+
+</html>

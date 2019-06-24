@@ -1,0 +1,31 @@
+const Web3 = require('web3')
+const fs = require('fs')
+const API_KEY = "95de10c8fc364b36a25627f56c997240"
+const rpcURL = "https://mainnet.infura.io/v3/" + API_KEY
+const web3 = new Web3(rpcURL)
+
+const blockHash = "0xbee07458736795b03a22448ad862f6f73cc3fcdfc940d34db4c064037b7afd56"
+web3.eth.getBlock(blockHash, (err, res) => {
+    if (err){
+        console.error(err) 
+    } else {
+        console.log(res)
+    }
+})
+
+
+const transactionHash = "0x07f9d19fb64dc16a02ae85d04ff8297c2e1608efe1680c7a56c6acfd11bbab0c"
+
+web3.eth.getTransaction(transactionHash, (err, res) => {
+    if (err) console.error("Error: ", err)
+    else {
+        console.log("Tx: ", JSON.stringify(res))
+    }
+})
+
+web3.eth.getTransactionReceipt(transactionHash, (err, res) => {
+    if (err) console.error("Error: ", err)
+    else {
+        console.log("Tx receipt: ", JSON.stringify(res))
+    }
+})

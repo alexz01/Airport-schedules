@@ -1,0 +1,2611 @@
+AAF	Apalachicola, FL [Apalachicola Municipal Airport], USA
+AAP	Houston, TX [Andrau Airpark], USA
+ABE	Allentown, PA [Allentown-Bethlehem-Easton Airport], USA
+ABI	Abilene, TX [Abilene Regional Airport], USA
+ABL	Ambler, AK [Ambler Airport], USA
+ABQ	Albuquerque, NM [Albuquerque International Airport], USA
+ABR	Aberdeen, SD [Aberdeen Regional Airport], USA
+ABY	Albany, GA [Southwest Georgia Regional Airport], USA
+ACB	Bellaire, MI [Antrim County Airport], USA
+ACJ	Americus, GA [Souther Field], USA
+ACK	Nantucket, MA [Nantucket Memorial Airport], USA
+ACQ	Waseca, MN [Waseca Municipal Airport], USA
+ACS	Anacortes, WA, USA
+ACT	Waco, TX [Waco Regional Airport], USA
+ACV	Arcata/Eureka, CA [Arcata Airport], USA
+ACY	Atlantic City, NJ [Atlantic City International Airport], USA
+ACZ	Wallace, NC [Henderson Field], USA
+ADG	Adrian, MI [Lenawee County Airport], USA
+ADK	Adak Island, AK [Adak Naval Air Station], USA
+ADM	Ardmore, OK [Ardmore Municipal Airport], USA
+ADQ	Kodiak, AK [Kodiak Airport], USA
+ADR	Andrews, SC [Andrews Municipal Airport], USA
+ADS	Dallas, TX [Addison Airport], USA
+ADT	Ada, OK [Ada Municipal Airport], USA
+ADU	Audubon, IA [Audubon County Airport], USA
+ADW	Camp Springs, MD [Andrews Air Force Base], USA
+AEL	Albert Lea, MN [Albert Lea Municipal Airport], USA
+AET	Allakaket, AK [Allakaket Airport], USA
+AEX	Alexandria, LA [Alexandria International Airport], USA
+AFF	Colorado Springs, CO [U.S. Air Force Academy Airstrip], USA
+AFN	Jaffrey, NH [Jaffrey Municipal-Silver Ranch Airport], USA
+AFO	Afton, WY [Afton Municipal Airport], USA
+AFW	Fort Worth, TX [Fort Worth Alliance Airport], USA
+AGC	Pittsburgh, PA [Allegheny County Airport], USA
+AGN	Angoon, AK [Angoon Seaplane Base], USA
+AGO	Magnolia, AR [Magnolia Municipal Airport], USA
+AGS	Augusta, GA [Bush Field], USA
+AHC	Herlong, CA [Amedee Army Air Field], USA
+AHD	Ardmore, OK [Ardmore Downtown Executive Airport], USA
+AHF	Arapahoe, NE [Arapahoe Municipal Airport], USA
+AHH	Amery, WI [Amery Municipal Airport], USA
+AHN	Athens, GA [Athens/Ben Epps Airport], USA
+AHQ	Wahoo, NE [Wahoo Municipal Airport], USA
+AHT	Amchitka, AK [Amchitka Island Airport], USA
+AIA	Alliance, NE [Alliance Municipal Airport], USA
+AIB	Anita Bay, AK, USA
+AID	Anderson, IN [Anderson Municipal Airport-Darlington Field], USA
+AIK	Aiken, SC [Aiken Municipal Airport], USA
+AIN	Wainwright, AK [Wainwright Airport], USA
+AIO	Atlantic, IA [Atlantic Municipal Airport], USA
+AIV	Aliceville, AL [George Downer Airport], USA
+AIY	Atlantic City, NJ [Atlantic City Municipal Airport/Bader Field], USA
+AIZ	Kaiser/Lake Ozark, MO [Lee C. Fine Memorial Airport], USA
+AJG	Mount Carmel, IL [Mount Carmel Municipal Airport], USA
+AKB	Atka, AK [Atka Airport], USA
+AKI	Akiak, AK [Akiak Airport], USA
+AKK	Akhiok, AK [Akhiok Airport], USA
+AKN	King Salmon, AK [King Salmon Airport], USA
+AKO	Akron, CO [Akron-Washington County Airport], USA
+AKP	Anaktuvuk Pass, AK [Anaktuvuk Pass Airport], USA
+ALB	Albany, NY [Albany County Airport], USA
+ALE	Alpine, TX [Alpine-Casparis Municipal Airport], USA
+ALI	Alice, TX [Alice International Airport], USA
+ALM	Alamogordo, NM [Alamogordo-White Sands Regional Airport], USA
+ALN	Alton, IL/St. Louis, MO [St. Louis Regional Airport], USA
+ALO	Waterloo, IA [Waterloo Municipal Airport], USA
+ALS	Alamosa, CO [San Luis Valley Regional Airport/Bergman Field], USA
+ALW	Walla Walla, WA [Walla Walla Regional Airport], USA
+ALX	Alexander City, AL [Thomas C. Russell Field], USA
+ALZ	Alitak, AK [Alitak Seaplane Base], USA
+AMA	Amarillo, TX [Amarillo International Airport], USA
+AMK	Durango, CO [Animas Air Park], USA
+AMN	Alma, MI [Gratiot Community Airport], USA
+AMW	Ames, IA [Ames Municipal Airport], USA
+ANA	Anaheim/Disneyland, CA, USA
+ANB	Anniston, AL [Anniston Metropolitan Airport], USA
+ANC	Anchorage, AK [Anchorage International Airport], USA
+AND	Anderson, SC [Anderson County Airport], USA
+ANI	Aniak, AK [Aniak Airport], USA
+ANN	Annette, AK [Annette Island Airport], USA
+ANP	Annapolis, MD [Lee Airport], USA
+ANQ	Angola, IN [Tri-State Steuben County Airport], USA
+ANV	Anvik, AK [Anvik Airport], USA
+ANW	Ainsworth, NE [Ainsworth Municipal Airport], USA
+ANY	Anthony, KS [Anthony Municipal Airport], USA
+AOH	Lima, OH [Lima Allen County Airport], USA
+AOO	Altoona, PA [Altoona-Blair County Airport], USA
+AOS	Amook, AK [Amook Bay Seaplane Base], USA
+AOV	Ava, MO [Ava Bill Martin Memorial Airport], USA
+AOW	Hanalei, HI, USA
+APA	Denver, CO [Centennial Airport], USA
+APC	Napa, CA [Napa County Airport], USA
+APF	Naples, FL [Naples Municipal Airport], USA
+APG	Aberdeen Proving Ground (Aberdeen), MD [Phillips Army Air Field], USA
+APH	Bowling Green/Fort A. P. Hill, VA [A. P. Hill Army Air Field], USA
+APN	Alpena, MI [Alpena County Regional Airport], USA
+APT	Jasper, TN [Marion County Airport-Brown Field], USA
+APV	Apple Valley, CA [Apple Valley Airport], USA
+AQY	Alyeska/Girdwood, AK [Girdwood Airport], USA
+ARA	New Iberia, LA [Acadiana Regional Airport], USA
+ARB	Ann Arbor, MI [Ann Arbor Municipal Airport], USA
+ARC	Arctic Village, AK [Arctic Village Airport], USA
+ARG	Walnut Ridge, AR [Walnut Ridge Regional Airport], USA
+ART	Watertown, NY [Watertown International Airport], USA
+ARV	Minocqua/Woodruff, WI [Lakeland Airport/Noble F. Lee Memorial Field], USA
+ARX	Asbury Park/Fort Monmouth, NJ [Charles Wood Helipad], USA
+ASE	Aspen, CO [Aspen-Pitkin County Airport/Sardy Field], USA
+ASH	Nashua, NH [Boire Field], USA
+ASL	Marshall, TX [Harrison County Airport], USA
+ASN	Talladega, AL [Talladega Municipal Airport], USA
+ASQ	Austin, NV [Austin Airport], USA
+AST	Astoria, OR [Astoria Regional Airport], USA
+ASX	Ashland, WI [John F. Kennedy Memorial Airport], USA
+ASY	Ashley, ND [Ashley Municipal Airport], USA
+ATE	Antlers, OK [Antlers Municipal Airport], USA
+ATK	Atqasuk, AK [Atqasuk Airport], USA
+ATL	Atlanta, GA [The William B. Hartsfield Atlanta International Airport], USA
+ATO	Athens/Albany, OH [Ohio University Airport], USA
+ATS	Artesia, NM [Artesia Municipal Airport], USA
+ATT	Atmautluak, AK [Atmautluak Airport], USA
+ATU	Attu Island, AK [Casco Gove Coast Guard Station Airport], USA
+ATW	Appleton, WI [Outagamie County Airport], USA
+ATY	Watertown, SD [Watertown Municipal Airport], USA
+AUG	Augusta, ME [Augusta State Airport], USA
+AUK	Alakanuk, AK [Alakanuk Airport], USA
+AUM	Austin, MN [Austin Municipal Airport], USA
+AUN	Auburn, CA [Auburn Municipal Airport], USA
+AUO	Auburn, AL [Auburn-Opelika Robert G. Pitts Airport], USA
+AUS	Austin, TX [Robert Mueller Municipal Airport], USA
+AUW	Wausau, WI [Wausau Municipal Airport], USA
+AUZ	Chicago/Aurora, IL [Aurora Municipal Airport], USA
+AVC	South Hill, VA [Mecklenburg-Brunswick Regional Airport], USA
+AVE	Avenal, CA [Avenal Airport], USA
+AVL	Asheville, NC [Asheville Regional Airport], USA
+AVO	Avon Park, FL [Avon Park Municipal Airport], USA
+AVP	Wilkes-Barre/Scranton, PA [Wilkes-Barre/Scranton International Airport], USA
+AVW	Tucson, AZ [Avra Valley Airport], USA
+AVX	Avalon (Catalina Island), CA [Catalina Airport], USA
+AWG	Washington, IA [Washington Municipal Airport], USA
+AWM	West Memphis, AR [West Memphis Municipal Airport], USA
+AWO	Arlington, WA [Arlington Municipal Airport], USA
+AXB	Alexandria Bay, NY [Maxson Airfield], USA
+AXG	Algona, IA [Algona Municipal Airport], USA
+AXH	Houston, TX [Houston-Southwest Airport], USA
+AXN	Alexandria, MN [Chandler Field], USA
+AXS	Altus, OK [Altus Municipal Airport], USA
+AXV	Wapakoneta, OH [Neil Armstrong Airport], USA
+AXX	Angel Fire, NM [Angel Fire Airport], USA
+AYE	Ayer/Fort Devens, MA [Moore Army Air Field], USA
+AYJ	Lincoln, NE [Lincoln Municipal Army National Guard/Base Operations Airport], USA
+AYS	Waycross, GA [Waycross-Ware County Airport], USA
+AYZ	Amityville, NY, USA
+AZE	Hazlehurst, GA [Hazlehurst Airport], USA
+AZO	Kalamazoo, MI [Kalamazoo/Battle Creek International Airport], USA
+BAB	Marysville, CA [Beale Air Force Base], USA
+BAD	Bossier City, LA [Barksdale Air Force Base], USA
+BAF	Westfield, MA [Barnes Municipal Airport], USA
+BAM	Battle Mountain, NV [Battle Mountain Airport], USA
+BBB	Benson, MN [Benson Municipal Airport], USA
+BBC	Bay City, TX [Bay City Municipal Airport], USA
+BBD	Brady, TX [Curtis Field], USA
+BBF	Burlington, MA [Burlington Municipal Airport], USA
+BBW	Broken Bow, NE [Broken Bow Municipal Airport], USA
+BBX	Blue Bell, PA [Wings Field], USA
+BCB	Blacksburg, VA [Virginia Tech Airport], USA
+BCC	Bear Creek, AK [Bear Creek 3 Airport], USA
+BCE	Bryce Canyon, UT [Bryce Canyon Airport], USA
+BCJ	Baca Grande, CO, USA
+BCS	Belle Chasse, LA [Air Logistics (Belle Chasse) Heliport], USA
+BCT	Boca Raton, FL [Boca Raton Airport], USA
+BCV	Birchwood, AK [Birchwood Airport], USA
+BDE	Baudette, MN [Baudette International Airport], USA
+BDF	Bradford, IL [Rinkenberger RLA], USA
+BDG	Blanding, UT [Blanding Municipal Airport], USA
+BDL	Hartford/Springfield (Windsor Locks), CT [Bradley International Airport], USA
+BDR	Bridgeport, CT [Igor I. Sikorsky Memorial Airport], USA
+BDX	Broadus, MT [Broadus Airport], USA
+BDY	Bandon, OR [Bandon State Airport], USA
+BEC	Wichita, KS [Beech Factory Airport], USA
+BED	Bedford, MA [Laurence G. Hanscom Field], USA
+BEH	Benton Harbor, MI [Ross Field-Twin Cities Airport], USA
+BET	Bethel, AK [Bethel Airport], USA
+BFA	Boyne Falls, MI [Boyne Mountain Airport], USA
+BFB	Blue Fox Bay, AK, USA
+BFD	Bradford, PA [Bradford Regional Airport], USA
+BFF	Scottsbluff, NE [William B. Heilig Field], USA
+BFG	Bullfrog Basin (Glen Canyon NRA), UT [Bullfrog Basin Airport], USA
+BFI	Seattle, WA [Boeing Field/King County International Airport], USA
+BFK	Denver/Aurora, CO [Buckley Army National Guard Base], USA
+BFL	Bakersfield, CA [Meadows Field], USA
+BFM	Mobile, AL [Mobile Downtown Airport], USA
+BFP	Beaver Falls, PA [Beaver County Airport], USA
+BFR	Bedford, IN [Virgil I. Grissom Municipal Airport], USA
+BFT	Beaufort, SC [Beaufort County Airport], USA
+BFV	Clinton, OK [Clinton Municipal Airport], USA
+BFW	Silver Bay, MN [Silver Bay Municipal Airport], USA
+BGD	Borger, TX [Hutchinson County Airport], USA
+BGE	Bainbridge, GA [Decatur County Industrial Air Park], USA
+BGM	Binghamton, NY [Binghamton Regional Airport/Edwin A. Link Field], USA
+BGQ	Big Lake, AK [Big Lake Airport], USA
+BGR	Bangor, ME [Bangor International Airport], USA
+BGS	Big Spring, TX [Big Spring McMahon-Wrinkle Airport], USA
+BHB	Bar Harbor, ME [Hancock County-Bar Harbor Airport], USA
+BHC	Bullhead City, AZ [Laughlin/Bullhead International Airport], USA
+BHM	Birmingham, AL [Birmingham International Airport], USA
+BIC	Big Creek, AK, USA
+BID	Block Island, RI [Block Island State Airport], USA
+BIE	Beatrice, NE [Beatrice Municipal Airport], USA
+BIF	Fort Bliss (El Paso), TX [Biggs Army Air Field], USA
+BIG	Delta Junction/Fort Greely, AK [Allen Army Air Field], USA
+BIH	Bishop, CA [Bishop Airport], USA
+BIL	Billings, MT [Billings Logan International Airport], USA
+BIS	Bismarck, ND [Bismarck Municipal Airport], USA
+BIX	Biloxi, MS [Keesler Air Force Base], USA
+BJC	Denver/Broomfield, CO [Jeffco Airport], USA
+BJI	Bemidji, MN [Bemidji-Beltrami County Airport], USA
+BJJ	Wooster, OH [Wayne County Airport], USA
+BKC	Buckland, AK [Buckland Airport], USA
+BKD	Breckenridge, TX [Stephens County Airport], USA
+BKE	Baker City, OR [Baker City Municipal Airport], USA
+BKF	Brooks Camp (Katmai National Park), AK [Lake Brooks Seaplane Base], USA
+BKH	Kekana, Kauai, HI [Barking Sands PMRF Airport], USA
+BKL	Cleveland, OH [Burke Lakefront Airport], USA
+BKT	Blackstone, VA [Camp Pickett/Blackstone Army Air Field-Allen C. Perkinson Municipal Airport], USA
+BKV	Brooksville, FL [Hernando County Airport], USA
+BKW	Beckley, WV [Raleigh County Memorial Airport], USA
+BKX	Brookings, SD [Brookings Municipal Airport], USA
+BLD	Boulder City, NV [Boulder City Municipal Airport], USA
+BLF	Bluefield, WV [Mercer County Airport], USA
+BLH	Blythe, CA [Blythe Airport], USA
+BLI	Bellingham, WA [Bellingham International Airport], USA
+BLM	Belmar/Farmingdale, NJ [Allaire Airport], USA
+BLU	Emigrant Gap, CA [Blue Canyon-Nyack Airport], USA
+BLV	Belleville, IL [Scott Air Force Base], USA
+BLW	Waimanalo, HI, USA
+BMC	Brigham City, UT [Brigham City Airport], USA
+BMG	Bloomington, IN [Monroe County Airport], USA
+BMI	Bloomington, IL [Bloomington/Normal Airport], USA
+BML	Berlin, NH [Berlin Municipal Airport], USA
+BMT	Beaumont, TX [Beaumont Municipal Airport], USA
+BMX	Big Mountain, AK [Big Mountain Airport], USA
+BNA	Nashville, TN [Nashville International Airport], USA
+BNF	Baranof, AK [Warm Spring Bay Seaplane Base], USA
+BNG	Banning, CA [Banning Municipal Airport], USA
+BNL	Barnwell, SC [Barnwell County Airport], USA
+BNO	Burns, OR [Burns Municipal Airport], USA
+BNW	Boone, IA [Boone Municipal Airport], USA
+BOF	Washington, DC [Bolling Air Force Base], USA
+BOI	Boise, ID [Boise Air Terminal (Gowen Field)], USA
+BOK	Brookings, OR [Brookings State Airport], USA
+BOS	Boston, MA [General Edward Lawrence Logan International Airport], USA
+BOW	Bartow, FL [Bartow Municipal Airport], USA
+BPI	Big Piney, WY [Big Piney-Marbleton Airport], USA
+BPT	Beaumont/Port Arthur, TX [Jefferson County Airport], USA
+BQK	Brunswick, GA [Glynco Jetport], USA
+BQV	Gustavus/Bartlett Cove, AK [Bartlett Cove Seaplane Base], USA
+BRD	Brainerd, MN [Brainerd-Crow Wing County Regional Airport], USA
+BRG	Whitesburg, KY [Whitesburg Municipal Airport], USA
+BRL	Burlington, IA [Burlington Municipal Airport], USA
+BRO	Brownsville, TX [Brownsville/South Padre Island International Airport], USA
+BRW	Barrow, AK [Wiley Post-Will Rogers Memorial Airport], USA
+BRY	Bardstown, KY [Samuels Field], USA
+BSF	Camp Pohakuloa, HI [Bradshaw Army Airfield], USA
+BSI	Blairsville, PA [Jim Shearer South Airport], USA
+BSM	Austin, TX [Bergstrom Air Rescue Service Airport], USA
+BSQ	Bisbee, AZ [Bisbee Municipal Airport], USA
+BSW	Boswell Bay, AK [Boswell Bay Airport], USA
+BSZ	Egegik, AK [Bartletts Airport], USA
+BTF	Bountiful, UT [Skypark], USA
+BTI	Barter Island, AK [Barter Island LRRS], USA
+BTL	Battle Creek, MI [W. K. Kellogg Airport], USA
+BTM	Butte, MT [Bert Mooney Airport], USA
+BTN	Bennettsville, SC [Marlboro County Airport], USA
+BTP	Butler, PA [Butler County Airport], USA
+BTR	Baton Rouge, LA [Baton Rouge Metropolitan Airport/Ryan Field], USA
+BTT	Bettles, AK [Bettles Airport], USA
+BTV	Burlington, VT [Burlington International Airport], USA
+BTY	Beatty, NV [Beatty Airport], USA
+BUB	Burwell, NE [Cram Field], USA
+BUF	Buffalo, NY [Greater Buffalo International Airport], USA
+BUM	Butler, MO [Butler Memorial Airport], USA
+BUR	Burbank, CA [Burbank-Glendale-Pasadena Airport], USA
+BVD	Beaver Inlet, AK, USA
+BVN	Albion, NE [Albion Municipal Airport], USA
+BVO	Bartlesville, OK [Bartlesville Municipal Airport], USA
+BVU	Bellevue, WA [Taymar Heliport], USA
+BVX	Batesville, AR [Batesville Regional Airport], USA
+BVY	Beverly, MA [Beverly Municipal Airport], USA
+BWC	Brawley, CA [Brawley Municipal Airport], USA
+BWD	Brownwood, TX [Brownwood Municipal Airport], USA
+BWG	Bowling Green, KY [Bowling Green-Warren County Regional Airport], USA
+BWI	Baltimore, MD [Baltimore/Washington International Airport], USA
+BWL	Blackwell, OK [Earl Henry Airport], USA
+BWM	Bowman, ND [Bowman Municipal Airport], USA
+BWS	Blaine, WA [Blaine Municipal Airport], USA
+BXA	Bogalusa, LA [George R. Carr Memorial Air Field], USA
+BXC	Boxborough, MA, USA
+BXG	Waynesboro, GA [Burke County Airport], USA
+BXK	Buckeye, AZ [Buckeye Municipal Airport], USA
+BXS	Borrego Springs, CA [Borrego Valley Airport], USA
+BYA	Boundary, AK [Boundary Airport], USA
+BYG	Buffalo, WY [Johnson County Airport], USA
+BYH	Blytheville, AR [Arkansas International Airport], USA
+BYI	Burley, ID [Burley Municipal Airport], USA
+BYS	Fort Irwin/Barstow, CA [Bicycle Lake Army Air Field], USA
+BYW	Blakeley Island, WA [Blakeley Island Airport], USA
+BZN	Bozeman, MT [Gallatin Field], USA
+BZS	Washington, DC [Buzzards Point Seaplane Base], USA
+BZT	Brazoria, TX [Eagle Air Park], USA
+CAD	Cadillac, MI [Wexford County Airport], USA
+CAE	Columbia, SC [Columbia Metropolitan Airport], USA
+CAK	Akron, OH [Akron-Canton Regional Airport], USA
+CAO	Clayton, NM [Clayton Municipal Airpark], USA
+CAR	Caribou, ME [Caribou Municipal Airport], USA
+CBA	Corner Bay, AK, USA
+CBE	Cumberland, MD [Greater Cumberland Regional Airport], USA
+CBF	Council Bluffs, IA [Council Bluffs Municipal Airport], USA
+CBK	Colby, KS [Shaltz Field], USA
+CBM	Columbus, MS [Columbus Air Force Base], USA
+CBZ	Cabin Creek, AK, USA
+CCA	Fort Chaffee, AR [Chaffee Army Air Field], USA
+CCB	Upland, CA [Cable Airport], USA
+CCD	Los Angeles, CA [Century City Heliport], USA
+CCG	Crane, TX [Crane County Airport], USA
+CCR	Concord, CA [Buchanan Field], USA
+CCY	Charles City, IA [Charles City Municipal Airport], USA
+CDB	Cold Bay, AK [Cold Bay Airport], USA
+CDC	Cedar City, UT [Cedar City Municipal Airport], USA
+CDH	Camden, AR [Harrell Field], USA
+CDK	Cedar Key, FL [George T. Lewis Airport], USA
+CDL	Candle, AK [Candle 2 Airport], USA
+CDN	Camden, SC [Woodward Field], USA
+CDR	Chadron, NE [Chadron Municipal Airport], USA
+CDS	Childress, TX [Childress Municipal Airport], USA
+CDV	Cordova, AK [Merle K. (Mudhole) Smith Airport], USA
+CDW	Caldwell, NJ [Essex County Airport], USA
+CEA	Wichita, KS [Cessna Aircraft Field], USA
+CEC	Crescent City, CA [Jack McNamara Field.], USA
+CEF	Springfield/Chicopee, MA [Westover Air Reserve Base/Metropolitan Airport], USA
+CEM	Central, AK [Central Airport], USA
+CEU	Clemson, SC [Clemson-Oconee County Airport], USA
+CEV	Connersville, IN [Mettel Field], USA
+CEW	Crestview, FL [Bob Sikes Airport], USA
+CEX	Chena Hot Springs, AK [Chena Hot Springs Airport], USA
+CEY	Murray, KY [Kyle-Oakley Field], USA
+CEZ	Cortez, CO [Cortez-Montezuma County Airport], USA
+CFA	Coffee Point, AK, USA
+CFD	Bryan, TX [Coulter Field], USA
+CFJ	Crawfordsville, IN [Crawfordsville Municipal Airport], USA
+CFT	Clifton/Morenci, AZ [Greenlee County Airport], USA
+CFV	Coffeyville, KS [Coffeyville Municipal Airport], USA
+CGA	Craig, AK [Craig Seaplane Base], USA
+CGE	Cambridge, MD [Cambridge-Dorchester Airport], USA
+CGF	Cleveland, OH [Cuyahoga County Airport], USA
+CGI	Cape Girardeau, MO [Cape Girardeau Municipal Airport], USA
+CGS	College Park, MD [College Park Airport], USA
+CGX	Chicago, IL [Merrill C. Meigs Airport], USA
+CGZ	Casa Grande, AZ [Casa Grande Municipal Airport], USA
+CHA	Chattanooga, TN [Lovell Field], USA
+CHD	Chandler, AZ [Chandler Municipal Airport], USA
+CHI	Chicago, IL [Metropolitan Area], USA
+CHK	Chickasha, OK [Chickasha Municipal Airport], USA
+CHL	Challis, ID [Challis Airport], USA
+CHO	Charlottesville, VA [Charlottesville-Albemarle Airport], USA
+CHP	Circle Hot Springs, AK [Circle Hot Springs Airport], USA
+CHS	Charleston, SC [Charleston Air Force Base/Charleston International Airport], USA
+CHU	Chuathbaluk, AK [Chuathbaluk Airport], USA
+CHZ	Chiloquin, OR [Chiloquin State Airport], USA
+CIB	Avalon (Catalina Island), CA [Avalon Bay Seaplane Base], USA
+CIC	Chico, CA [Chico Municipal Airport], USA
+CID	Cedar Rapids, IA [Cedar Rapids Municipal Airport], USA
+CIG	Craig, CO [Craig-Moffat Airport], USA
+CIK	Chalkyitsik, AK [Chalkyitsik Airport], USA
+CIL	Council, AK [Council Airport], USA
+CIN	Carroll, IA [Arthur N. Neu Airport], USA
+CIR	Cairo, IL [Cairo Airport], USA
+CIU	Sault Ste. Marie, MI [Chippewa County International Airport], USA
+CIV	Chomley, AK, USA
+CJI	Crafton Island, AK, USA
+CJJ	Cresco, IA [Ellen Church Field], USA
+CJN	El Cajon, CA, USA
+CJX	Crooked Creek, AK [Crooked Creek Airport], USA
+CKA	Cherokee, OK [Kegelman Air Force Auxiliary Field], USA
+CKB	Clarksburg, WV [Benedum Airport], USA
+CKD	Crooked Creek, AK [Crooked Creek Airport], USA
+CKE	Clear Lake, AK, USA
+CKF	Cordele, GA [Crisp County-Cordele Airport], USA
+CKK	Cherokee Village, AR [Cherokee Village Heliport], USA
+CKM	Clarksdale, MS [Fletcher Field], USA
+CKN	Crookston, MN [Crookston Municipal Kirkwood Field], USA
+CKP	Cherokee, IA [Cherokee Municipal Airport], USA
+CKR	Crane Island, WA, USA
+CKU	Cordova, AK [Cordova Municipal Airport], USA
+CKV	Clarksville, TN [Outlaw Field], USA
+CKX	Chicken, AK [Chicken Airport], USA
+CLC	Clear Lake/Lavon, TX [Lavon North Airport], USA
+CLD	Carlsbad, CA [McClellan-Palomar Airport], USA
+CLE	Cleveland, OH [Cleveland-Hopkins International Airport], USA
+CLG	Coalinga, CA [Coalinga Municipal Airport], USA
+CLI	Clintonville, WI [Clintonville Municipal Airport], USA
+CLL	College Station, TX [Easterwood Field], USA
+CLM	Port Angeles, WA [William R. Fairchild International Airport], USA
+CLP	Clarks Point, AK [Clarks Point Airport], USA
+CLR	Calipatria, CA [Calipatria Municipal Airport], USA
+CLS	Chehalis, WA [Chehalis-Centralia Airport], USA
+CLT	Charlotte, NC [Charlotte/Douglas International Airport], USA
+CLU	Columbus, IN [Columbus Municipal Airport], USA
+CLW	Clearwater, FL [Clearwater Air Park], USA
+CMH	Columbus, OH [Port Columbus International Airport], USA
+CMI	Champaign (Urbana), IL [University of Illinois-Willard Airport], USA
+CMX	Hancock, MI [Houghton County Memorial Airport], USA
+CMY	Sparta, WI [Sparta/Fort McCoy Airport], USA
+CNE	Canon City, CO [Fremont County Airport], USA
+CNH	Claremont, NH [Claremont Municipal Airport], USA
+CNK	Concordia, KS [Blosser Municipal Airport], USA
+CNM	Carlsbad, NM [Cavern City Air Terminal], USA
+CNO	Chino, CA [Chino Airport], USA
+CNU	Chanute, KS [Chanute Martin Johnson Airport], USA
+CNW	Waco, TX [TSTI-Waco/James Connall Airport], USA
+CNY	Moab, UT [Canyonlands Field], USA
+COA	Columbia, CA [Columbia Airport], USA
+COD	Cody, WY [Yellowstone Regional Airport], USA
+COE	Coeur d'Alene, ID [Coeur d'Alene Air Terminal], USA
+COF	Cocoa Beach, FL [Patrick Air Force Base], USA
+COI	Cocoa, FL [Merritt Island Airport], USA
+COM	Coleman, TX [Coleman Municipal Airport], USA
+CON	Concord, NH [Concord Municipal Airport], USA
+COS	Colorado Springs, CO [City of Colorado Springs Municipal Airport], USA
+COT	Cotulla, TX [Cotulla-La Salle County Airport], USA
+COU	Columbia, MO [Columbia Regional Airport], USA
+CPK	Chesapeake, VA [Chesapeake Municipal Airport], USA
+CPM	Compton, CA [Compton Airport], USA
+CPR	Casper, WY [Natrona County International Airport], USA
+CPS	Cahokia, IL/St. Louis, MO [St. Louis Downtown-Parks Airport], USA
+CQA	Celina, OH [Lakefield Airport], USA
+CQM	Cook, MN [Cook Municipal Airport], USA
+CQX	Chatham, MA [Chatham Municipal Airport], USA
+CRE	North Myrtle Beach, SC [Grand Strand Airport], USA
+CRG	Jacksonville, FL [Craig Municipal Airport], USA
+CRO	Corcoran, CA [Corcoran Airport], USA
+CRP	Corpus Christi, TX [Corpus Christi International Airport], USA
+CRS	Corsicana, TX [C. David Campbell Field-Corsicana Municipal Airport], USA
+CRT	Crossett, AR [Z. M. Jack Stell Field], USA
+CRW	Charleston, WV [Yeager Airport], USA
+CRX	Corinth, MS [Roscoe Turner Airport], USA
+CSE	Crested Butte, CO [Avion Club at Crested Butte Airport], USA
+CSG	Columbus, GA [Columbus Metropolitan Airport], USA
+CSH	Cape Sarichef, AK [Cape Sarichef Airport], USA
+CSL	San Luis Obispo, CA [O'Sullivan Army Air Field (National Guard) Airport], USA
+CSM	Clinton, OK [Clinton-Sherman Airport], USA
+CSN	Carson City, NV [Carson Airport], USA
+CSP	Cape Spencer, AK [Cape Spencer Coast Guard Heliport], USA
+CSQ	Creston, IA [Creston Municipal Airport], USA
+CSV	Crossville, TN [Crossville Memorial Airport], USA
+CTH	Coatesville, PA [Chester County G. O. Carlson Airport], USA
+CTJ	Carrollton, GA [West Georgia Regional Airport], USA
+CTK	Canton, IL [Ingersoll Airport], USA
+CTO	Calverton, NY [Calverton Naval Weapons Industrial Reserve Airport], USA
+CTW	Cottonwood, AZ [Cottonwood Airport], USA
+CTX	Cortland, NY [Cortland County Airport-Chase Field], USA
+CTY	Cross City, FL [Cross City Airport], USA
+CTZ	Clinton, NC [Sampson County Airport], USA
+CUB	Columbia, SC [Columbia Owens Downtown Airport], USA
+CUH	Cushing, OK [Cushing Municipal Airport], USA
+CUS	Columbus, NM [Columbus Municipal Airport], USA
+CUW	Cube Cove, AK, USA
+CUX	Corpus Christi, TX [Cuddihy Field], USA
+CVG	Covington, KY/Cincinnati, OH [Cincinatti/Northern Kentucky International Airport], USA
+CVN	Clovis, NM [Clovis Municipal Airport], USA
+CVO	Corvallis, OR [Corvallis Municipal Airport], USA
+CVR	Culver City, CA, USA
+CVS	Clovis, NM [Cannon Air Force Base], USA
+CVX	Charlevoix, MI [Charlevoix Municipal Airport], USA
+CWA	Wausau (Mosinee), WI [Central Wisconsin Airport], USA
+CWF	Lake Charles, LA [Chennault Industrial Airpark], USA
+CWG	Callaway Gardens, GA [Callaway Gardens-Harris County Airport], USA
+CWI	Clinton, IA [Clinton Municipal Airport], USA
+CWO	Mineral Wells, TX [Fort Wolter Army Air Field], USA
+CWS	Center Island, WA, USA
+CXC	Chitina, AK [Chitina Airport], USA
+CXE	Chase City, VA [Chase City Municipal Airport], USA
+CXF	Coldfoot, AK [Coldfoot Airport], USA
+CXL	Calexico, CA [Calexico International Airport], USA
+CXO	Conroe, TX [Montgomery County Airport], USA
+CXU	Camilla, GA [Camilla-Mitchell County Airport], USA
+CYE	Crystal Lake, PA, USA
+CYF	Chefornak, AK [Chefornak Airport], USA
+CYM	Chatham, AK [Chatham Seaplane Base], USA
+CYS	Cheyenne, WY [Cheyenne Airport], USA
+CYT	Cape Yakataga, AK [Yakataga Airport], USA
+CYW	Clay Center, KS [Clay Center Municipal Airport], USA
+CZC	Copper Center, AK [Copper Center 2 Airport], USA
+CZD	Cozad, NE [Cozad Municipal Airport], USA
+CZF	Cape Romanzof, AK [Cape Romanzof LRRS], USA
+CZK	Cascade Locks, OR [Cascade Locks State Airport], USA
+CZN	Chisana, AK [Chisana Airport], USA
+CZO	Chistochina, AK [Chistochina Airport], USA
+CZP	Cape Pole, AK [Cape Pole Seaplane Base], USA
+CZT	Carrizo Springs, TX [Dimmit County Airport], USA
+CZZ	Campo, CA, USA
+DAA	Fort Belvoir, VA [Davison Army Air Field], USA
+DAB	Daytona Beach, FL [Daytona Beach Regional Airport], USA
+DAG	Daggett, CA [Barstow-Daggett Airport], USA
+DAL	Dallas, TX [Dallas Love Field], USA
+DAN	Danville, VA [Danville Regional Airport], USA
+DAY	Dayton, OH [James M. Cox Dayton International Airport], USA
+DBN	Dublin, GA [W. H. 'Bud' Barron Airport], USA
+DBQ	Dubuque, IA [Dubuque Regional Airport], USA
+DBS	Dubois, ID [Dubois Municipal Airport], USA
+DCA	Washington, DC [Washington National Airport], USA
+DCK	Dahl Creek, AK [Dahl Creek Airport], USA
+DCR	Decatur, IN [Decatur Hi-Way Airport], USA
+DCU	Decatur, AL [Pryor Field], USA
+DCY	Washington, IN [Daviess County Airport], USA
+DDC	Dodge City, KS [Dodge City Regional Airport], USA
+DEC	Decatur, IL [Decatur Airport], USA
+DEH	Decorah, IA [Decorah Municipal Airport], USA
+DEN	Denver, CO [Stapleton International Airport], USA
+DEO	Dearborn, MI [Dearborn Helistop], USA
+DET	Detroit, MI [Detroit City Airport], USA
+DFB	Driftwood Bay, AK, USA
+DFI	Defiance, OH [Defiance Memorial Airport], USA
+DFW	Dallas/Fort Worth, TX [Dallas/Fort Worth International Airport], USA
+DGB	Danger Bay, AK, USA
+DGL	Douglas, AZ [Douglas Municipal Airport], USA
+DGN	Dahlgren, VA [U.S. Naval Surface Weapons Center, Dahlgren LAB Airport], USA
+DGW	Douglas, WY [Converse County Airport], USA
+DHN	Dothan, AL [Dothan Airport], USA
+DHT	Dalhart, TX [Dalhart Municipal Airport], USA
+DIK	Dickinson, ND [Dickinson Municipal Airport], USA
+DIO	Little Diomede Island, AK, USA
+DJN	Delta Junction, AK [Delta Junction Airport], USA
+DKB	De Kalb Taylor, IL [De Kalb Taylor Municipal Airport], USA
+DKK	Dunkirk, NY [Chautauqua County/Dunkirk Airport], USA
+DKX	Knoxville, TN [Knoxville Downtown Island Airport], USA
+DLF	Del Rio, TX [Laughlin Air Force Base], USA
+DLG	Dillingham, AK [Dillingham Airport], USA
+DLH	Duluth, MN [Duluth International Airport], USA
+DLL	Dillon, SC [Dillon County Airport], USA
+DLN	Dillon, MT [Dillon Airport], USA
+DLO	Dolomi, AK, USA
+DLS	The Dalles, OR [The Dalles Municipal Airport], USA
+DLZ	Delaware, OH [Delaware Municipal Airport], USA
+DMA	Tucson, AZ [Davis-Monthan Air Force Base], USA
+DMF	Montgomery, AL [Dannelly Air National Guard Base Operations Airport], USA
+DMN	Deming, NM [Deming Municipal Airport], USA
+DMO	Sedalia, MO [Sedalia Memorial Airport], USA
+DNE	Plano, TX [Dallas North Airport], USA
+DNL	Augusta, GA [Daniel Field], USA
+DNN	Dalton, GA [Dalton Municipal Airport], USA
+DNS	Denison, IA [Denison Municipal Airport], USA
+DNT	Santa Barbara, CA [Downtown], USA
+DNV	Danville, IL [Vermilion County Airport], USA
+DNY	Danbury, CT, USA
+DOF	Dora Bay, AK, USA
+DOV	Dover, DE [Dover Air Force Base], USA
+DPA	Chicago (West Chicago), IL [Dupage Airport], USA
+DPG	Dugway Proving Ground, UT [Michael Army Air Field], USA
+DPK	Deer Park, NY, USA
+DQH	Douglas, GA [Douglas Municipal Airport], USA
+DRA	Mercury, NV [Desert Rock Airport], USA
+DRE	Drummond Island, MI [Drummond Island Airport], USA
+DRF	Kenai, AK [Drift River], USA
+DRG	Deering, AK [Deering Airport], USA
+DRI	De Ridder, LA [Beauregard Parish Airport], USA
+DRO	Durango, CO [Durango-La Plata County Airport], USA
+DRT	Del Rio, TX [Del Rio International Airport], USA
+DRU	Drummond, MT [Drummond Airport], USA
+DSI	Destin, FL [Destin-Fort Walton Beach Airport], USA
+DSM	Des Moines, IA [Des Moines International Airport], USA
+DSV	Dansville, NY [Dansville Municipal Airport], USA
+DTA	Delta, UT [Delta Municipal Airport], USA
+DTG	Dwight, IL [Dwight Airport], USA
+DTH	Death Valley National Monument, CA [Death Valley Airport], USA
+DTK	Dietrich, AK, USA
+DTL	Detroit Lakes, MN [Detroit Lakes Airport], USA
+DTN	Shreveport, LA [Shreveport Downtown Airport], USA
+DTO	Denton, TX [Denton Municipal Airport], USA
+DTR	Decatur Island, WA [Decatur Shores Airport], USA
+DTT	Detroit, MI [Metropolitan Area], USA
+DTW	Detroit, MI [Detroit Metropolitan Wayne County Airport], USA
+DUA	Durant, OK [Eaker Field], USA
+DUC	Duncan, OK [Halliburton Field], USA
+DUF	Duck, NC, USA
+DUG	Douglas/Bisbee, AZ [Bisbee Douglas International Airport], USA
+DUJ	Du Bois, PA [Du Bois-Jefferson County Airport], USA
+DUT	Dutch Harbor (Unalaska), AK [Unalaska Airport], USA
+DUX	Dumas, TX [Moore County Airport], USA
+DVK	Danville, KY [Stuart Powell Field], USA
+DVL	Devils Lake, ND [Devils Lake Municipal Airport], USA
+DVN	Davenport, IA [Davenport Municipal Airport], USA
+DVT	Phoenix, AZ [Phoenix-Deer Valley Municipal Airport], USA
+DVX	Denver, CO [Denver International Airport], USA
+DWH	Houston, TX [David Wayne Hooks Memorial Airport], USA
+DWN	Oklahoma City, OK [Downtown Airpark], USA
+DWS	Orlando, FL [Lake Buena Vista STOL], USA
+DXE	Dexter, MO [Dexter Municipal Airport], USA
+DXR	Danbury, CT [Danbury Municipal Airport], USA
+DXX	Madison, MN [Madison-Lac Qui Parle County Airport], USA
+DYB	Summerville, SC [Dorchester County Airport], USA
+DYS	Abilene, TX [Dyess Air Force Base], USA
+EAA	Eagle, AK [Eagle Airport], USA
+EAG	Eagle Grove, IA [Eagle Grove Municipal Airport], USA
+EAN	Wheatland, WY [Phifer Airfield], USA
+EAR	Kearney, NE [Kearney Municipal Airport], USA
+EAT	Wenatchee, WA [Pangborn Memorial Airport], USA
+EAU	Eau Claire, WI [Chippewa Valley Regional Airport], USA
+EBS	Webster City, IA [Webster City Municipal Airport], USA
+ECA	East Tawas, MI [Iosco County Airport], USA
+ECE	El Campo, TX [El Campo Metro Airport Inc.], USA
+ECG	Elizabeth City, NC [Elizabeth City Cost Guard Air Station/Municipal], USA
+ECS	Newcastle, WY [Mondell Field], USA
+EDA	Edna Bay, AK, USA
+EDE	Edenton, NC [Edenton Municipal Airport], USA
+EDF	Anchorage, AK [Elmendorf Air Force Base], USA
+EDG	Edgewood Arsenal, MD [Weide Army Air Field], USA
+EDK	El Dorado, KS [Captain Jack Thomas/El Dorado Airport], USA
+EDW	Edwards, CA [Edwards Air Force Base], USA
+EED	Needles, CA [Needles Airport], USA
+EEK	Eek, AK [Eek Airport], USA
+EEN	Keene, NH [Dillant-Hopkins Airport], USA
+EFC	Belle Fourche, SD [Belle Fourche Municipal Airport], USA
+EFD	Houston, TX [Ellington Field], USA
+EFK	Newport, VT [Newport State Airport], USA
+EFO	East Fork, AK, USA
+EFW	Jefferson, IA [Jefferson Municipal Airport], USA
+EGD	Egegik, AK [Egegik (New) Airport], USA
+EGE	Vail/Eagle, CO [Eagle County Regional Airport], USA
+EGI	Valparaiso, FL [Eglin Air Force Auxiliary Nr. 3 Duke Airport], USA
+EGP	Eagle Pass, TX [Eagle Pass Municipal Airport], USA
+EGQ	Emmetsburg, IA [Emmetsburg Municipal Airport], USA
+EGT	Wellington, KS [Wellington Municipal Airport], USA
+EGV	Eagle River, WI [Eagle River Union Airport], USA
+EHA	Elkhart, KS [Elkhart-Morton County Airport], USA
+EHM	Cape Newenham, AK [Cape Newhenham LRRS], USA
+EHO	Shelby, NC [Shelby Municipal Airport], USA
+EHT	East Hartford, CT [Rentschler Airport], USA
+EIL	Fairbanks, AK [Eielson Air Force Base], USA
+EIW	New Madrid, MO [County Memorial Airport], USA
+EKA	Eureka, CA [Murray Field], USA
+EKI	Elkhart, IN [Elkhart Municipal Airport], USA
+EKN	Elkins, WV [Elkins-Randolph County-Jennings Randolph Field], USA
+EKO	Elko, NV [Elko Municipal Airport-J. C. Harris Field], USA
+EKQ	Monticello, KY [Wayne County Airport], USA
+EKX	Elizabethtown, KY [Addington Field], USA
+ELA	Eagle Lake, TX [Eagle Lake Airport], USA
+ELD	El Dorado, AR [Goodwin Field], USA
+ELI	Elim, AK [Elim Airport], USA
+ELK	Elk City, OK [Elk City Municipal Airport], USA
+ELM	Elmira, NY [Elmira/Corning Regional Airport], USA
+ELN	Ellensburg, WA [Bowers Field], USA
+ELP	El Paso, TX [El Paso International Airport], USA
+ELV	Elfin Cove, AK [Elfin Cove Seaplane Base], USA
+ELW	Ellamar, AK [Ellamar Seaplane Base], USA
+ELY	Ely, NV [Ely Airport (Yelland Field)], USA
+ELZ	Wellsville, NY [Wellsville Municipal Airport/Tarantine Field], USA
+EMB	San Francisco, CA [Embarcadero], USA
+EMK	Emmonak, AK [Emmonak Airport], USA
+EMM	Kemmerer, WY [Kemmerer Municipal Airport], USA
+EMP	Emporia, KS [Emporia Municipal Airport], USA
+EMT	El Monte, CA [El Monte Airport], USA
+EMV	Emporia, VA [Emporia-Greensville Municipal Airport], USA
+ENA	Kenai, AK [Kenai Municipal Airport], USA
+END	Enid, OK [Vance Air Force Base], USA
+ENL	Centralia, IL [Centralia Municipal Airport], USA
+ENN	Nenana, AK [Nenana Municipal Airport], USA
+ENV	Wendover, UT [Wendover Airport], USA
+ENW	Kenosha, WI [Kenosha Municipal Airport], USA
+EOD	Fort Campbell (Clarksville), TN [Sabre Army Heliport], USA
+EOK	Keokuk, IA [Keokuk Municipal Airport], USA
+EOS	Neosho, MO [Neosho Memorial Airport], USA
+EPG	Weeping Water, NE [Browns Airport], USA
+EPH	Ephrata, WA [Ephrata Municipal Airport], USA
+EPM	Eastport, ME [Eastport Municipal Airport], USA
+EQY	Monroe, NC [Monroe Airport], USA
+ERI	Erie, PA [Erie International Airport], USA
+ERO	Eldred Rock, AK [Eldred Rock Coast Guard Heliport], USA
+ERR	Errol, NH [Errol Airport], USA
+ERV	Kerrville, TX [Kerrville Municipal Airport/Louis Schreiner Field], USA
+ERY	Newberry, MI [Luce County Hale Airport], USA
+ESC	Escanaba, MI [Delta County Airport], USA
+ESD	Eastsound, WA [Orcas Island Airport], USA
+ESF	Alexandria, LA [Alexandria Esler Regional Airport], USA
+ESN	Easton, MD [Easton Airport/Newnam Field], USA
+ESO	Espanola, NM [San Juan Pueblo Airport], USA
+EST	Estherville, IA [Estherville Municipal Airport], USA
+ESW	Easton, WA [Easton State Airport], USA
+ETB	West Bend, WI [West Bend Municipal Airport], USA
+ETC	Tarboro, NC [Tarboro-Edgecombe Airport], USA
+ETN	Eastland, TX [Eastland Municipal Airport], USA
+ETS	Enterprise, AL [Enterprise Municipal Airport], USA
+EUE	Eureka, NV [Eureka Airport], USA
+EUF	Eufaula, AL [Weedon Field], USA
+EUG	Eugene, OR [Mahlon Sweet Field], USA
+EVA	Evadale, TX [Evadale Landing Strip], USA
+EVM	Eveleth, MN [Eveleth-Virginia Municipal Airport], USA
+EVU	Maryville, MO [Maryville Memorial Airport], USA
+EVV	Evansville, IN [Evansville Regional Airport], USA
+EVW	Evanston, WY [Evanston-Uinta County Burns Field], USA
+EWB	New Bedford, MA [New Bedford Regional Airport], USA
+EWK	Newton, KS [Newton-City-County Airport], USA
+EWN	New Bern, NC [Craven County Regional Airport], USA
+EWR	Newark, NJ [Newark International Airport], USA
+EWU	Newtok, AK [Newtok Airport], USA
+EXI	Excursion Inlet, AK [Excursion Inlet Seaplane Base], USA
+EXX	Lexington, NC [Lexington Municipal Airport], USA
+EYQ	Houston, TX [Weiser Air Park], USA
+EYR	Yerington, NV [Yerington Municipal Airport], USA
+EYW	Key West, FL [Key West International Airport], USA
+EZF	Fredericksburg, VA [Shannon Airport], USA
+EZI	Kewanee, IL [Kewanee Municipal Airport], USA
+EZM	Eastman, GA [Eastman-Dodge County Airport], USA
+EZZ	Cameron, MO [Cameron Memorial Airport], USA
+FAF	Fort Eustis, VA [Felker Army Air Field], USA
+FAI	Fairbanks, AK [Fairbanks International Airport], USA
+FAK	False Island, AK [False Island Seaplane Base], USA
+FAL	Roma, TX [Falcon State Park Airport], USA
+FAM	Farmington, MO [Farmington Regional Airport], USA
+FAR	Fargo, ND [Hector International Airport], USA
+FAT	Fresno, CA [Fresno Air Terminal], USA
+FAY	Fayetteville, NC [Fayetteville Regional Airport/Grannis Field], USA
+FBG	Fort Bragg, NC [Simmons Army Air Field], USA
+FBK	Fairbanks/Fort Wainwright, AK [Wainwright Army Air Field], USA
+FBL	Faribault, MN [Faribault Municipal Airport], USA
+FBR	Fort Bridger, WY [Fort Bridger Airport], USA
+FBY	Fairbury, NE [Fairbury Municipal Airport], USA
+FCA	Kalispell, MT [Glacier Park International Airport], USA
+FCH	Fresno, CA [Fresno-Chandler Downtown Airport], USA
+FCI	Richmond, VA [Chesterfield County Airport], USA
+FCM	Minneapolis, MN [Flying Cloud Airport], USA
+FCS	Colorado Springs/Fort Carson, CO [Butts Army Air Field], USA
+FCT	Yakima, WA [Vagabond Army Air Field], USA
+FCY	Forrest City, AR [Forrest City Municipal Airport], USA
+FDK	Frederick, MD [Frederick Municipal Airport], USA
+FDR	Frederick, OK [Frederick Municipal Airport], USA
+FDW	Winnsboro, SC [Fairfield County Airport], USA
+FDY	Findlay, OH [Findlay Airport], USA
+FEP	Freeport, IL [Albertus Airport], USA
+FES	Festus, MO [Festus Memorial Airport], USA
+FET	Fremont, NE [Fremont Municipal Airport], USA
+FEW	Cheyenne, WY [Francis E. Warren Air Force Base], USA
+FFA	Kill Devil Hills, NC [First Flight Airport], USA
+FFC	Peachtree City, GA [Peachtree City Airport-Falcon Field], USA
+FFL	Fairfield, IA [Fairfield Municipal Airport], USA
+FFM	Fergus Falls, MN [Fergus Falls Municipal Airport-Einar Mickelson Field], USA
+FFO	Dayton, OH [Wright-Patterson Air Force Base], USA
+FFT	Frankfort, KY [Capital City Airport], USA
+FGX	Flemingsburg, KY [Fleming-Mason Airport], USA
+FHK	Fort Zucker/Ozark, AL [Knox Army Heliport], USA
+FHU	Fort Huachuca/Sierra Vista, AZ [Libby Army Air Field-Sierra Vista Municipal], USA
+FIC	Fire Cove, AK, USA
+FID	Fishers Island, NY [Elizabeth Field], USA
+FIL	Fillmore, UT [Fillmore Airport], USA
+FIT	Fitchburg, MA [Fitchburg Municipal Airport], USA
+FIV	Five Fingers, AK [Five Fingers Coast Guard Heliport], USA
+FKL	Franklin, PA [Venango Regional Airport], USA
+FKN	Franklin, VA [Franklin Municipal-John Beverly Rose Airport], USA
+FKR	Frankfort, IN [Frankfort Municipal Airport], USA
+FLD	Fond du Lac, WI [Fond du Lac County Airport], USA
+FLE	Petersburg/Fort Lee, VA [Fort Lee nr. 1 (headquarters) Heliport], USA
+FLG	Flagstaff, AZ [Flagstaff Pulliam Airport], USA
+FLJ	Falls Bay, AK, USA
+FLL	Fort Lauderdale, FL [Fort Lauderdale/Hollywood International Airport], USA
+FLO	Florence, SC [Florence Regional Airport], USA
+FLP	Flippin, AR [Marion County Regional Airport], USA
+FLT	Flat, AK [Flat Airport], USA
+FLU	New York (Flushing), NY [Flushing Airport], USA
+FLV	Fort Leavenworth, KS [Sherman Army Air Field], USA
+FLX	Fallon, NV [Fallon Municipal Airport], USA
+FMC	Five Mile, AK [Five Mile Airport], USA
+FME	Fort Meade (Odenton), MD [Tipton Army Air Field], USA
+FMH	Falmouth, MA [Otis Army National Guard Base], USA
+FMN	Farmington, NM [Four Corners Regional Airport], USA
+FMS	Fort Madison, IA [Fort Madison Municipal Airport], USA
+FMY	Fort Myers, FL [Page Field], USA
+FMZ	Fairmont, NE [Fairmont State Airfield], USA
+FNB	Falls City, NE [Brenner Field], USA
+FNK	Fin Creek, AK, USA
+FNL	Fort Collins/Loveland, CO [Fort Collins-Loveland Municipal Airport], USA
+FNR	Funter Bay, AK [Funter Bay Seaplane Base], USA
+FNT	Flint, MI [Bishop International Airport], USA
+FOB	Fort Bragg, CA [Fort Bragg Airport], USA
+FOD	Fort Dodge, IA [Fort Dodge Regional Airport], USA
+FOE	Topeka, KS [Forbes Field], USA
+FOK	Westhampton Beach, NY [The Francis S. Gabreski Airport], USA
+FOP	Forest Park, GA, USA
+FOX	Fox, AK, USA
+FPR	Fort Pierce, FL [St. Lucie County International Airport], USA
+FPY	Perry, FL [Perry-Foley Airport], USA
+FRD	Friday Harbor, WA [Friday Harbor Airport], USA
+FRG	Long Island (Farmingdale), NY [Republic Airport], USA
+FRH	French Lick, IN [French Lick Municipal Airport], USA
+FRI	Fort Riley (Junction City), KS [Marshall Army Air Field], USA
+FRM	Fairmont, MN [Fairmont Municipal Airport], USA
+FRN	Fort Richardson (Anchorage), AK [Bryant Army Heliport], USA
+FRP	Fresh Water Bay, AK, USA
+FRR	Front Royal, VA [Front Royal-Warren County Airport], USA
+FRY	Fryeburg, ME [Eastern Slopes Regional Airport], USA
+FSD	Sioux Falls, SD [Joe Foss Field], USA
+FSE	Fosston, MN [Fosston Municipal Airport], USA
+FSI	Fort Sill, OK [Henry Post Army Air Field], USA
+FSK	Fort Scott, KS [Fort Scott Municipal Airport], USA
+FSM	Fort Smith, AR [Fort Smith Municipal Airport], USA
+FSN	Fort Sheridan, IL, USA
+FSO	Highgate, VT [Franklin County State Airport], USA
+FST	Fort Stockton, TX [Fort Stockton-Pecos County Airport], USA
+FSU	Fort Sumner, NM [Fort Sumner Municipal Airport], USA
+FTG	Denver, CO [Front Range Airport], USA
+FTK	Fort Knox, KY [Godman Army Air Field], USA
+FTL	Fortuna Ledge, AK, USA
+FTT	Fulton, MO [Elton Hensley Memorial Airport], USA
+FTW	Fort Worth, TX [Fort Worth Meacham Airport], USA
+FTY	Atlanta, GA [Fulton County Airport-Brown Field], USA
+FUL	Fullerton, CA [Fullerton Municipal Airport], USA
+FVX	Farmville, VA [Farmville Municipal Airport], USA
+FWA	Fort Wayne, IN [Fort Wayne International Airport], USA
+FWC	Fairfield, IL [Fairfield Municipal Airport], USA
+FWL	Farewell, AK [Farewell Airport], USA
+FWS	Fort Worth, TX [Fort Worth Spinks Airport], USA
+FXE	Fort Lauderdale, FL [Fort Lauderdale Executive Airport], USA
+FXM	Flaxman, AK, USA
+FXY	Forest City, IA [Forest City Municipal Airport], USA
+FYE	Somerville, TN [Fayette County Airport], USA
+FYM	Fayetteville, TN [Fayetteville Municipal Airport], USA
+FYU	Fort Yukon, AK [Fort Yukon Airport], USA
+FYV	Fayetteville, AR [Drake Field], USA
+FZG	Fitzgerald, GA [Fitzgerald Municipal Airport], USA
+FZI	Fostoria, OH [Fostoria Metro Airport], USA
+GAB	Gabbs, NV [Gabbs Airport], USA
+GAD	Gadsden, AL [Gadsden Municipal Airport], USA
+GAG	Gage, OK [Gage Airport], USA
+GAI	Gaithersburg, MD [Montgomery County Airpark], USA
+GAK	Gakona, AK, USA
+GAL	Galena, AK [Galena Airport], USA
+GAM	Gambell, AK [Gambell Airport], USA
+GAP	Gusap, Papua New Guinea
+GAZ	Globe, AZ [Globe-San Carlos Regional Air Facility], USA
+GBD	Great Bend, KS [Great Bend Municipal Airport], USA
+GBG	Galesburg, IL [Galesburg Municipal Airport], USA
+GBH	Galbraith Lake, AK [Galbraith Lake Airport], USA
+GBN	Gila Bend, AZ [Gila Bend Air Force Auxiliary Airport], USA
+GBO	Greensboro (Baltimore), MD, USA
+GBR	Great Barrington, MA [Great Barrington Airport], USA
+GCC	Gillette, WY [Gillette-Campbell County Airport], USA
+GCK	Garden City, KS [Garden City Regional Airport], USA
+GCN	Grand Canyon, AZ [Grand Canyon National Park Airport], USA
+GCT	Guthrie Center, IA [Guthrie County Regional Airport], USA
+GCY	Greeneville, TN [Greeneville Municipal Airport], USA
+GDC	Greenville, SC [Donaldson Center Airport], USA
+GDM	Gardner, MA [Gardner Municipal Airport], USA
+GDP	Guadalupe, TX, USA
+GDV	Glendive, MT [Dawson Community Airport], USA
+GDW	Gladwin, MI [Charles C. Zettel Memorial Airport], USA
+GDY	Grundy, VA [Grundy Municipal Airport], USA
+GED	Georgetown, DE [Sussex County Airport], USA
+GEG	Spokane, WA [Spokane International Airport], USA
+GEK	Ganes Creek, AK, USA
+GEU	Glendale, AZ [Glendale Municipal Airport], USA
+GEY	Greybull, WY [South Big Horn County Airport], USA
+GFA	Great Falls, MT [Malmstrom Air Force Base], USA
+GFB	Togiak Fish, AK, USA
+GFD	Greenfield, IN [Pope Field], USA
+GFK	Grand Forks, ND [Grand Forks International Airport], USA
+GFL	Glens Falls, NY [Warren County Airport], USA
+GFZ	Greenfield, IA [Greenfield Municipal Airport], USA
+GGE	Georgetown, SC [Georgetown County Airport], USA
+GGF	Grant, NE [Grant Municipal Airport], USA
+GGG	Longview, TX [Gregg County Airport], USA
+GGI	Grinnell, IA [Grinnell Regional Airport], USA
+GGP	Logansport, IN [Logansport Municipal Airport], USA
+GGW	Glasgow, MT [Glasgow International Airport], USA
+GHM	Centerville, TN [Centerville Municipal Airport], USA
+GHN	Golden Horn, AK [Golden Horn Lodge Seaplane Base], USA
+GHW	Glenwood, MN [Glenwood Municipal Airport], USA
+GIF	Winter Haven, FL [Winter Haven's Gilbert Airport], USA
+GJI	Grand Ledge, MI [Abrams Municipal/Base Operations Airport], USA
+GJT	Grand Junction, CO [Walker Field], USA
+GKN	Gulkana, AK [Gulkana Airport], USA
+GKT	Sevierville, TN [Gatlinburg-Pigeon Forge Airport], USA
+GLD	Goodland, KS [Renner Field (Goodland Municipal)], USA
+GLE	Gainesville, TX [Gainesville Municipal Airport], USA
+GLH	Greenville, MS [Greenville Municipal Airport], USA
+GLQ	Glennallen, AK [Brenwicks Airport], USA
+GLR	Gaylord, MI [Otsego County Airport], USA
+GLS	Galveston, TX [Scholes Field], USA
+GLV	Golovin, AK [Golovin Airport], USA
+GLW	Glasgow, KY [Glasgow Municipal Airport], USA
+GMT	Granite Mountain, AK, USA
+GMU	Greenville, SC [Greenville Downtown Airport], USA
+GNG	Gooding, ID [Gooding Municipal Airport], USA
+GNT	Grants, NM [Grants-Milan Municipal Airport], USA
+GNU	Goodnews Bay, AK [Goodnews Airport], USA
+GNV	Gainesville, FL [Gainesville Regional Airport], USA
+GNY	Granby, CO [Granby-Grand County Airport], USA
+GOF	San Angelo, TX [Goodfellow Air Force Base], USA
+GOK	Guthrie, OK [Guthrie Municipal Airport], USA
+GOL	Gold Beach, OR [Gold Beach Municipal Airport], USA
+GON	Groton (New London), CT [Groton-New London Airport], USA
+GPT	Gulfport/Biloxi, MS [Gulfport-Biloxi Regional Airport], USA
+GPZ	Grand Rapids, MN [Grand Rapids/Itasca County Airport-Gordon Newstrom Field], USA
+GQQ	Galion, OH [Galion Municipal Airport], USA
+GRB	Green Bay, WI [Austin Straubel International Airport], USA
+GRD	Greenwood, SC [Greenwood County Airport], USA
+GRE	Greenville, IL [Greenville Airport], USA
+GRF	Fort Lewis (Tacoma), WA [Gray Army Air Field], USA
+GRI	Grand Island, NE [Central Nebraska Regional Airport], USA
+GRK	Fort Hood (Killeen), TX [Robert Gray Army Air Field], USA
+GRM	Grand Marais, MN [Grand Marais/Cook County Airport], USA
+GRN	Gordon, NE [Gordon Municipal Airport], USA
+GRR	Grand Rapids, MI [Kent County International Airport], USA
+GSB	Goldsboro, NC [Seymour Johnson Air Force Base], USA
+GSG	Glasgow, MT [Glasgow Industrial Airport], USA
+GSH	Goshen, IN [Goshen Municipal Airport], USA
+GSO	Greensboro/High Point, NC [Piedmont Triad International Airport], USA
+GSP	Greenville/Spartanburg (Greer), SC [Greenville-Spartanburg Airport], USA
+GST	Gustavus, AK [Gustavus Airport], USA
+GSW	Fort Worth, TX [Greater Southwest Airport], USA
+GTF	Great Falls, MT [Great Falls International Airport], USA
+GTG	Grantsburg, WI [Grantsburg Municipal Airport], USA
+GTR	Columbus/West Point/Starkville, MS [Golden Triangle Regional Airport], USA
+GTY	Gettysburg, PA, USA
+GUC	Gunnison, CO [Gunnison County Airport], USA
+GUF	Gulf Shores, AL [Jack Edwards Airport], USA
+GUN	Montgomery, AL [Gunter Air Force Base], USA
+GUP	Gallup, NM [Gallup Municipal Airport], USA
+GUS	Peru, IN [Grissom Air Force Base], USA
+GUY	Guymon, OK [Guymon Municipal Airport], USA
+GVE	Gordonsville, VA [Gordonsville Municipal Airport], USA
+GVL	Gainesville, GA [Lee Gilmer Memorial Airport], USA
+GVT	Greenville, TX [Majors Airport], USA
+GVW	Grandview (Kansas City), MO [Richards-Gebaur Airport], USA
+GWO	Greenwood, MS [Greenwood-Leflore Airport], USA
+GWR	Gwinner, ND [Gwinner Airport-Roger Melroe Field], USA
+GWS	Glenwood Springs, CO [Glenwood Springs Municipal Airport], USA
+GWV	Glendale, WV [Glendale Fokker Field], USA
+GWW	Goldsboro-Wayne, NC [Goldsboro-Wayne Municipal Airport], USA
+GXY	Greeley, CO [Greeley-Weld County Airport], USA
+GYR	Goodyear, AZ [Phoenix-Goodyear Municipal Airport], USA
+GYY	Gary, IN [Gary Regional Airport], USA
+GZS	Pulaski, TN [Abernathy Field], USA
+HAB	Hamilton, AL [Marion County Airport], USA
+HAE	Havasupai, AZ, USA
+HAF	Half Moon Bay, CA [Half Moon Bay Airport], USA
+HAI	Three Rivers, MI [Three Rivers Municipal Dr. Haines Airport], USA
+HAO	Hamilton, OH [Hamilton-Fairfield Airport], USA
+HAR	Harrisburg, PA [Capital City Airport], USA
+HAX	Muskogee, OK [Hatbox Field], USA
+HAY	Haycock, AK [Haycock Airport], USA
+HBB	Hobbs, NM [Hobbs Industrial Airpark], USA
+HBC	Hanus Bay, AK, USA
+HBG	Hattiesburg, MS [Bobby L. Chain Municipal Airport], USA
+HBH	Hobart Bay, AK, USA
+HBO	Humboldt, NE [Humboldt Municipal Airport], USA
+HBR	Hobart, OK [Hobart Municipal Airport], USA
+HBW	Hillsboro, WI [Joshua Sanford Field], USA
+HBZ	Heber Springs, AR [Heber Springs Municipal Airport], USA
+HCA	Big Spring, TX, USA
+HCB	Shoal Cove, AK, USA
+HCD	Hutchinson, MN [Hutchinson Municipal Airport-Butler Field], USA
+HCR	Holy Cross, AK [Holy Cross Airport], USA
+HCW	Cheraw, SC [Cheraw Municipal Airport], USA
+HDA	Hidden Falls, AK, USA
+HDE	Holdrege, NE [Brewster Field], USA
+HDH	Mokuleia, HI [Dillingham Air Force Base], USA
+HDI	Cleveland, TN [Hardwick Field], USA
+HDL	Holikachuk, AK, USA
+HDN	Steamboat Springs (Hayden), CO [Yampa Valley Airport], USA
+HDO	Hondo, TX [Hondo Municipal Airport], USA
+HED	Herendeen Bay, AK [Herendeen Bay Airport], USA
+HEE	Helena/West Helena, AR [Thompson-Robbins Airport], USA
+HES	Hermiston, OR [Hermiston Municipal Airport], USA
+HEY	Fort Rucker/Ozark, AL [Hanchey Army Heliport], USA
+HEZ	Natchez, MS [Hardy-Anders Field Natchez-Adams County], USA
+HFD	Hartford, CT [Hartford-Brainard Airport], USA
+HFF	Hoffmann/Camp Mackall, NC [Mackall Army Air Field], USA
+HFY	Indianapolis, IN [Greenwood Municipal Airport], USA
+HGR	Hagerstown, MD [Washington County Regional Airport], USA
+HGT	Fort Hunter/Liggett/Jolon, CA [Tusi Army Heliport], USA
+HGZ	Hogatza, AK [Hog River Airport], USA
+HHF	Canadian, TX [Hemphill County Airport], USA
+HHG	Huntington, IN [Huntington Municipal Airport], USA
+HHH	Hilton Head Island, SC [Hilton Head Airport], USA
+HHI	Wahiawa, HI [Wheeler Army Air Field], USA
+HHR	Hawthorne, CA [Hawthorne Municipal Airport], USA
+HIB	Hibbing, MN [Chisholm-Hibbing Airport], USA
+HIE	Whitefield, NH [Mount Washington Regional Airport], USA
+HIF	Ogden, UT [Hill Air Force Base], USA
+HII	Lake Havasu City, AZ [Lake Havasu City Airport], USA
+HIK	Honolulu, HI [Hickam Air Force Base], USA
+HIO	Hillsboro (Portland), OR [Portland-Hillsboro Airport], USA
+HJH	Hebron, NE [Hebron Municipal Airport], USA
+HKA	Blytheville, AR [Blytheville Municipal Airport], USA
+HKB	Healy Lake, AK [Healy River Airport], USA
+HKP	Kaanapali, HI, USA
+HKS	Jackson, MS [Hawkins Field], USA
+HKY	Hickory, NC [Hickory Regional Airport], USA
+HLB	Batesville, IN [Hillenbrand Industries Airport], USA
+HLC	Hill City, KS [Hill City Municipal Airport], USA
+HLG	Wheeling, WV [Wheeling Ohio County Airport], USA
+HLI	Hollister, CA [Hollister Municipal Airport], USA
+HLM	Holland, MI [Park Township Airport], USA
+HLN	Helena, MT [Helena Regional Airport], USA
+HLR	Fort Hood (Killeen), TX [Hood Army Air Field], USA
+HLX	Galax/Hillsville, VA [Twin County Airport], USA
+HMN	Alamogordo, NM [Holloman Air Force Base], USA
+HMS	Homeshore, AK, USA
+HMT	Hemet, CA [Hemet-Ryan Airport], USA
+HMY	Lexington, OK [Muldrow Airfield Heliport], USA
+HNB	Huntingburg, IN [Huntingburg Airport], USA
+HNC	Hatteras, NC [Billy Mitchell Airport], USA
+HNE	Tahneta Pass Lodge, AK [Tahneta Pass Airport], USA
+HNH	Hoonah, AK [Hoonah Airport], USA
+HNL	Honolulu, HI [Honolulu International Airport], USA
+HNM	Hana, HI [Hana Airport], USA
+HNR	Harlan, IA [Harlan Municipal Airport], USA
+HNS	Haines, AK [Haines Airport], USA
+HNX	Hanna, WY, USA
+HNZ	Oxford, NC [Henderson-Oxford Airport], USA
+HOB	Hobbs, NM [Lea County (Hobbs) Airport], USA
+HOL	Holikachu, AK, USA
+HOM	Homer, AK [Homer Airport], USA
+HON	Huron, SD [Huron Regional Airport], USA
+HOP	Fort Campbell (Hopkinsville), KY [Campbell Army Air Field], USA
+HOT	Hot Springs, AR [Memorial Field], USA
+HOU	Houston, TX [William P. Hobby Airport], USA
+HPB	Hooper Bay, AK [Hooper Bay Airport], USA
+HPN	Westchester County (White Plains), NY [Westchester County Airport], USA
+HPT	Hampton, IA [Hampton Municipal Airport], USA
+HPV	Princeville (Hanalei), HI [Princeville Airport], USA
+HPY	Baytown, TX [Baytown Airport], USA
+HQG	Hugoton, KS [Hugoton Municipal Airport], USA
+HQM	Hoquiam, WA [Bowerman Airport], USA
+HQZ	Mesquite, TX [Phil L. Hudson Municipal Airport], USA
+HRL	Harlingen, TX [Rio Grande Valley International Airport], USA
+HRO	Harrison, AR [Boone County Airport], USA
+HRU	Herington, KS [Herington Municipal Airport], USA
+HRX	Hereford, TX [Hereford Municipal Airport], USA
+HSA	Bay St. Louis, MS [Stennis International Airport], USA
+HSB	Harrisburg, IL [Harrisburg-Raleigh Airport], USA
+HSD	Oklahoma City, OK [Sundance Airpark], USA
+HSH	Las Vegas, NV [Las Vegas-Henderson Sky Harbor Airport], USA
+HSI	Hastings, NE [Hastings Municipal Airport], USA
+HSL	Huslia, AK [Huslia Airport], USA
+HSP	Hot Springs, VA [Ingalls Field], USA
+HSR	Hot Springs, SD [Hot Springs Municipal Airport], USA
+HST	Homestead, FL [Homestead Air Force Base], USA
+HSV	Huntsville/Decatur, AL [Huntsville International Airport-Carl T. Jones Field], USA
+HTH	Hawthorne, NV [Hawthorne Municipal Airport], USA
+HTL	Houghton Lake, MI [Roscommon County Airport], USA
+HTO	East Hampton, NY [East Hampton Airport], USA
+HTS	Huntington, WV [Tri-State/Milton J. Ferguson Field], USA
+HTV	Huntsville, TX [Huntsville Municipal Airport], USA
+HTW	Chesapeake, OH/Huntington, WV [Lawrence County Airpark], USA
+HUA	Redstone Arsenal/Huntsville, AL [Redstone Army Air Field], USA
+HUF	Terre Haute, IN [Hulman Regional Airport], USA
+HUJ	Hugo, OK [Stan Stamper Municipal Airport], USA
+HUK	Hull, AK, USA
+HUL	Houlton, ME [Houlton International Airport], USA
+HUM	Houma, LA [Houma-Terrebonne Airport], USA
+HUS	Hughes, AK [Hughes Airport], USA
+HUT	Hutchinson, KS [Hutchinson Municipal Airport], USA
+HVC	Hopkinsville, KY [Hopkinsville-Christian County Airport], USA
+HVE	Hanksville, UT [Hanksville Airport], USA
+HVN	New Haven, CT [Tweed-New Haven Airport], USA
+HVR	Havre, MT [Havre City-County Airport], USA
+HVS	Hartsville, SC [Hartsville Municipal Airport], USA
+HWD	Hayward, CA [Hayward Air Terminal], USA
+HWI	Hawk Inlet, AK [Hawk Inlet Seaplane Base], USA
+HWO	Hollywood, FL [North Perry Airport], USA
+HWQ	Harlowton, MT [Wheatland County Airport at Harlowton], USA
+HXF	Hartford, WI [Hartford Municipal Airport], USA
+HYA	Hyannis, MA [Barnstable Municipal Airport-Boardman/Polando Field], USA
+HYG	Hydaburg, AK [Hydaburg Seaplane Base], USA
+HYL	Hollis, AK [Hollis Seaplane Base], USA
+HYR	Hayward, WI [Hayward Municipal Airport], USA
+HYS	Hays, KS [Hays Municipal Airport], USA
+HYW	Conway, SC [Conway-Horry County Airport], USA
+HZD	Huntingdon, TN [Carroll County Airport], USA
+HZK	Husavik, Iceland
+HZL	Hazleton, PA [Hazleton Municipal Airport], USA
+IAB	Wichita, KS [Mc Connell Air Force Base], USA
+IAD	Washington, DC [Washington Dulles International Airport], USA
+IAG	Niagara Falls, NY [Niagara Falls International Airport], USA
+IAH	Houston, TX [Houston Intercontinental Airport], USA
+IAN	Kiana, AK [Bob Baker Memorial Airport], USA
+IBM	Kimball, NE [Kimball Municipal Airport/Robert E. Arraj Field], USA
+ICL	Clarinda, IA [Schenck Field], USA
+ICT	Wichita, KS [Wichita Mid-Continent Airport], USA
+ICY	Icy Bay, AK [Icy Bay Airport], USA
+IDA	Idaho Falls, ID [Fanning Field], USA
+IDG	Ida Grove, IA [Ida Grove Municipal Airport], USA
+IDI	Indiana, PA [Indiana County (Jimmy Stewart Field)], USA
+IDL	Indianola, MS [Indianola Municipal Airport], USA
+IDP	Independence, KS [Independence Municipal Airport], USA
+IFA	Iowa Falls, IA [Iowa Falls Municipal Airport], USA
+IGG	Igiugig, AK [Igiugig Airport], USA
+IGM	Kingman, AZ [Kingman Airport], USA
+IIB	Independence, IA [Independence Municipal Airport], USA
+IIK	Kipnuk, AK [Kipnuk Airport], USA
+IIY	Washington, GA [Washington-Wilkes County Airport], USA
+IJD	Willimantic, CT [Windham Airport], USA
+IJX	Jacksonville, IL [Jacksonville Municipal Airport], USA
+IKB	Wilkesboro, NC [Wilkes County Airport], USA
+IKK	Kankakee, IL [Greater Kankakee Airport], USA
+IKO	Nikolski, AK, USA
+IKV	Ankeny, IA [Ankeny Regional Airport], USA
+ILE	Killeen, TX [Killeen Municipal Airport], USA
+ILG	Wilmington, DE [New Castle County Airport], USA
+ILI	Iliamna, AK [Iliamna Airport], USA
+ILL	Willmar, MN [Willmar Municipal Airport-John L. Rice Field], USA
+ILM	Wilmington, NC [New Hanover International Airport], USA
+ILN	Wilmington, OH [Airborne Airpark], USA
+IML	Imperial, NE [Imperial Municipal Airport], USA
+IMM	Immokalee, FL [Immokalee Airport], USA
+IMT	Iron Mountain/Kingsford, MI [Ford Airport], USA
+IND	Indianapolis, IN [Indianapolis International Airport], USA
+INK	Wink, TX [Winkler County Airport], USA
+INL	International Falls, MN [Falls International Airport], USA
+INR	Sault Ste. Marie, MI [Kinchelde Air Force Base], USA
+INS	Indian Springs, NV [Indian Springs Air Force Auxiliary Airport], USA
+INT	Winston-Salem, NC [Smith Reynolds Airport], USA
+INW	Winslow, AZ [Winslow Municipal Airport], USA
+IOB	Mount Sterling, KY [Mount Sterling-Montgomery County Airport], USA
+IOW	Iowa City, IA [Iowa City Municipal Airport], USA
+IPL	El Centro/Imperial, CA [Imperial County Airport], USA
+IPT	Williamsport, PA [Williamsport-Lycoming County Airport], USA
+IRB	Iraan, TX [Iraan Municipal Airport], USA
+IRC	Circle, AK [Circle City Airport], USA
+IRK	Kirksville, MO [Kirksville Regional Airport], USA
+IRS	Sturgis, MI [Kirsch Municipal Airport], USA
+ISL	Isabel Pass, AK, USA
+ISM	Kissimmee/Orlando, FL [Orlando Municipal Airport], USA
+ISN	Williston, ND [Sloulin Field International], USA
+ISO	Kinston, NC [Kinston Regional Jetport at Stallings Field], USA
+ISP	Islip, NY [Long Island Mac Arthur Airport], USA
+ISQ	Manistique, MI [Schoolcraft County Airport], USA
+ISS	Wiscasset, ME [Wiscasset Airport], USA
+ISW	Wisconsin Rapids, WI [Alexander Field South Wood County], USA
+ISZ	Cincinnati, OH [Cincinnati-Blue Ash Airport], USA
+ITH	Ithaca, NY [Tompkins County Airport], USA
+ITO	Hilo, HI [Hilo International Airport], USA
+IVH	Ivishak, AK, USA
+IWD	Ironwood, MI [Gogebic County Airport], USA
+IWH	Wabash, IN [Wabash Municipal Airport], USA
+IWS	Houston, TX [West Houston-Lakeside Airport], USA
+IYK	Inyokern, CA [Inyokern Airport], USA
+IZA	Santa Ynez, CA [Santa Ynez Airport], USA
+JAC	Jackson, WY [Jackson Hole Airport], USA
+JAE	Atlanta, GA [Atlanta Technology Park], USA
+JAH	Atlanta, GA [Hartsfield Heliport], USA
+JAJ	Atlanta, GA [Perimeter], USA
+JAN	Jackson, MS [Jackson International Airport], USA
+JAO	Atlanta (Norcross), GA [Beaver Ruin Airport], USA
+JAR	Arcadia, CA [Methodist Hospital Heliport], USA
+JAS	Jasper, TX [Jasper County Airport-Bell Field], USA
+JAX	Jacksonville, FL [Jacksonville International Airport], USA
+JBC	Boston, MA [Boston City Heliport], USA
+JBK	Berkeley, CA, USA
+JBP	Los Angeles (Commerce), CA [Commerce Business Park Heliport], USA
+JBR	Jonesboro, AR [Jonesboro Municipal Airport], USA
+JBS	Pleasanton, CA [Camp Parks Heliport], USA
+JBT	Bethel, AK [Bethel Seaplane Base], USA
+JCC	San Francisco, CA [China Basin Heliport], USA
+JCE	Oakland, CA [Oakland Convention Center Heliport], USA
+JCI	Olathe, KS/Kansas City, MO [Johnson County Industrial Airport], USA
+JCT	Junction, TX [Kimble County Airport], USA
+JCX	Los Angeles, CA [Citicorp Heliport], USA
+JCY	Johnson City, TX [Johnson City Airport], USA
+JDA	John Day, OR [John Day State Airport], USA
+JDB	Dallas, TX [Dallas Downtown Heliport], USA
+JDM	Miami, FL [Miami Heliport], USA
+JDN	Jordan, MT [Jordan Airport], USA
+JDT	Minneapolis, MN [Downtown Heliport], USA
+JDX	Houston, TX [Central Business District (Downtown) Heliport], USA
+JDY	Downey, CA [R I SD Downey Helistop], USA
+JEF	Jefferson City, MO [Jefferson City Memorial Airport], USA
+JEM	Emeryville, CA, USA
+JES	Jesup, GA [Jesup-Wayne County Airport], USA
+JFK	New York, NY [John F. Kennedy International Airport], USA
+JFN	Steubenville, OH [Jefferson County Airpark], USA
+JGC	Grand Canyon, AZ [Grand Canyon Heliport], USA
+JGG	Williamsburg, VA [Williamsburg-Jamestown Airport], USA
+JGL	Atlanta (Marietta), GA [Galleria Heliport], USA
+JGP	Houston, TX [Greenway Plaza Heliport], USA
+JGQ	Houston, TX [Transco Tower Garage Heliport], USA
+JGX	Glendale/Los Angeles, CA [Sunset-Glendale Airport], USA
+JHC	Garden City, NY [Island Heliport], USA
+JHM	Kapalua (Lahaina), HI [Kapalua-West Maui Airport], USA
+JHW	Jamestown, NY [Chautauqua County/Jamestown Airport], USA
+JHY	Cambridge, MA, USA
+JID	Los Angeles (City of Industry), CA [City of Industry Civic Financial Heliport], USA
+JIO	Ontario, CA [Ontario Heliport], USA
+JKL	Jackson, KY [Julian Carroll Airport], USA
+JLA	Cooper Landing, AK [Quartz Creek Airport], USA
+JLB	Long Beach, CA [NAA Long Beach Port Helistop], USA
+JLH	Arlington Heights, IL [U.S. Army Heliport], USA
+JLK	Lockport/Chicago/Romeoville, IL [Lewis University Airport], USA
+JLN	Joplin, MO [Joplin Regional Airport], USA
+JLX	Los Angeles, CA [Union], USA
+JMA	Houston, TX [Marriott Astrodome Heliport], USA
+JMC	Sausalito, CA [Commodore Center Heliport], USA
+JMD	Dallas, TX [Market Center Heliport], USA
+JMH	Chicago/Schaumburg, IL [Schaumburg Air Park], USA
+JMS	Jamestown, ND [Jamestown Municipal Airport], USA
+JNP	Newport Beach, CA, USA
+JNU	Juneau, AK [Juneau International Airport], USA
+JOC	Orange County, CA [Centerport Heliport], USA
+JOR	Orange, CA [Choc Heliport], USA
+JOT	Joliet, IL [Joliet Park District Airport], USA
+JPD	Pasadena, CA, USA
+JPJ	Paterson, NJ [Lembo Heliport], USA
+JPN	Washington, DC [Pentagon Army Heliport], USA
+JPT	Houston, TX [Park Ten Heliport], USA
+JQV	Annapolis, MD [Annapolis Heliport], USA
+JRA	New York, NY [Port Authority-West 30th Street Midtown Heliport], USA
+JRB	New York, NY [Port Authority-Downtown Manhattan/Wall Street Heliport], USA
+JRC	Rochester, MN [Charlton Building Heliport], USA
+JRD	Riverside, CA [Riverside Metro Center Heliport], USA
+JRE	New York, NY [East 60th Street Heliport], USA
+JRS	Jerusalem [Atarot], Israel
+JSD	Startford, CT [Sikorsky Heliport], USA
+JSE	Juneau, AK [Juneau Harbor Seaplane Base], USA
+JSK	St. Cloud, MN [St. Cloud Hospital Heliport], USA
+JSL	Atlantic City, NJ [Steel Pier Taj Mahal Heliport], USA
+JSN	Los Angeles, CA [Sherman Oaks Community Hospital Heliport], USA
+JST	Johnstown, PA [Johnstown-Cambria County Airport], USA
+JSV	Sunnyvale, CA [Sunnyvale Airport], USA
+JTO	Thousand Oaks, CA [R I Science Center Helistop], USA
+JUC	Los Angeles, CA [Universal Studios], USA
+JUP	Upland, CA [Cable Heliport], USA
+JUY	Uyak, AK, USA
+JVI	Manville, NJ [Kupper Airport], USA
+JVL	Janesville, WI [Rock County Airport], USA
+JVY	Jeffersonville, IN [Clark County Airport], USA
+JWC	Los Angeles, CA [Warner Brothers Studios], USA
+JWH	Houston, TX [Westchase Hilton Heliport], USA
+JWL	Houston/The Woodlands, TX [The Woodlands Memorial Hospital Heliport], USA
+JWN	Nashville, TN [John C. Tune Airport], USA
+JWS	New York, NY [Port Authority-Downtown Manhattan/Wall Street Heliport], USA
+JXN	Jackson, MI [Jackson County Airport-Reynolds Field], USA
+JYD	Meridian, MS [Meridian Army National Guard/Base Operations Airport], USA
+JYL	Sylvania, GA [Plantation Airpark], USA
+JYO	Leesburg, VA [Leesburg Municipal Airport/Godfrey Field], USA
+JYR	York, NE [York Municipal Airport], USA
+JZI	Charleston, SC [Charleston Executive Airport], USA
+JZP	Jasper, GA [Pickens County Airport], USA
+KAE	Kake, AK [Kake Seaplane Base], USA
+KAL	Kaltag, AK [Kaltag Airport], USA
+KAO	Kuusamo, Finland
+KBC	Birch Creek, AK [Birch Creek Airport], USA
+KBE	Bell Island, AK [Bell Island Hot Springs Seaplane Base], USA
+KBK	Klag Bay, AK, USA
+KBW	Chignik, AK [Chignik Bay Seaplane Base], USA
+KCC	Coffman Cove, AK [Coffman Cove Seaplane Base], USA
+KCG	Chignik, AK [Chignik Fisheries Airport], USA
+KCK	Kansas City, KS [Metropolitan Area], USA
+KCL	Chignik, AK [Chignik Lagoon Airport], USA
+KCN	Chernofski Harbor, AK [Chernofski Harbor Seaplane Base], USA
+KCO	Colville River, AK, USA
+KCQ	Chignik, AK [Chignik Airport], USA
+KCR	Colorado Creek, AK [Colorado Creek Airport], USA
+KDK	Kodiak, AK [Kodiak Municipal Airport], USA
+KEB	English Bay, AK [English Bay Airport], USA
+KEH	Seattle (Kenmore), WA [Kenmore Air Harbor Inc. Seaplane Base], USA
+KEK	Ekwok, AK [Ekwok Airport], USA
+KFP	False Pass, AK [False Pass Airport], USA
+KGK	Koliganek, AK [New Koliganek Airport], USA
+KGX	Grayling, AK [Grayling Airport], USA
+KGZ	Glacier Creek, AK [Glacier Creek Airport], USA
+KIB	Ivanof Bay, AK [Ivanof Bay Seaplane Base], USA
+KIC	King City, CA [Mesa del Rey Airport], USA
+KIP	Wichita Falls, TX [Kickapoo Downtown Airpark], USA
+KKA	Koyuk, AK [Koyuk Airport], USA
+KKB	Kitoi, AK [Kitoi Bay Seaplane Base], USA
+KKF	Kakiovik, AK, USA
+KKH	Kongiganak, AK [Kongiganak Airport], USA
+KKI	Akiachak, AK [Akiachak Seaplane Base], USA
+KKK	Kalakaket, AK, USA
+KKL	Karluk Lake, AK [Karluk Lake Seaplane Base], USA
+KKS	Kokrines, AK, USA
+KKT	Kentland, IN [Kentland Municipal Airport], USA
+KKU	Ekuk, AK [Ekuk Airport], USA
+KLG	Kalskag, AK [Kalskag Airport], USA
+KLL	Levelock, AK [Levelock Airport], USA
+KLN	Larsen Bay, AK [Larsen Bay Airport], USA
+KLP	Kelp Bay, AK, USA
+KLS	Kelso, WA [Kelso-Longview Airport], USA
+KLW	Klawock, AK [Klawock Airport], USA
+KMC	McCord, AK, USA
+KMO	Manokotak, AK [Manokotak Airport], USA
+KMY	Moser Bay, AK [Moser Bay Seaplane Base], USA
+KNB	Kanab, UT [Kanab Municipal Airport], USA
+KNK	Kakhonak, AK [Kakhonak Airport], USA
+KNT	Kennett, MO [Kennett Memorial Airport], USA
+KNW	New Stuyahok, AK [New Stuyahok Airport], USA
+KOA	Kailua/Kona, HI [Keahole-Kona International Airport], USA
+KOT	Kotlik, AK [Kotlik Airport], USA
+KOY	Olga Bay, AK [Olga Bay Seaplane Base], USA
+KOZ	Ouzinkie, AK [Ouzinkie Airport], USA
+KPB	Point Baker, AK [Point Baker Seaplane Base], USA
+KPC	Port Clarence, AK [Port Clarence Coast Guard Station Airport], USA
+KPD	King of Prussia, PA [Stouffers Heliport], USA
+KPH	Pauloff Harbor (Sanak Island), AK [Pauloff Harbor Seaplane Base], USA
+KPK	Parks, AK [Parks Seaplane Base], USA
+KPN	Kipnuk, AK, USA
+KPR	Port Williams, AK [Port Williams Seaplane Base], USA
+KPT	Jackpot, NV [Jackpot Airport/Hayden Field], USA
+KPV	Perryville, AK [Perryville Airport], USA
+KPY	Port Bailey, AK [Port Bailey Seaplane Base], USA
+KQA	Akutan, AK [Akutan Seaplane Base], USA
+KSM	St. Mary's, AK [St. Mary's Airport], USA
+KSR	Sandy, OR [Sandy River Airport], USA
+KTB	Thorne Bay, AK [Thorne Bay Seaplane Base], USA
+KTH	Tikchik, AK [Tikchik Lodge], USA
+KTN	Ketchikan, AK [Ketchikan International Airport], USA
+KTS	Brevig Mission, AK [Brevig Mission Airport], USA
+KTY	Terror Bay, AK [Terror Bay Seaplane Base], USA
+KUK	Kasigluk, AK [Kasigluk Airport], USA
+KUY	Uyak, AK [Uyak Seaplane Base], USA
+KUZ	Kusan [Air Base], South Korea
+KVC	King Cove, AK [King Cove Airport], USA
+KVL	Kivalina, AK [Kivalina Airport], USA
+KWF	Waterfall, AK [Waterfall Seaplane Base], USA
+KWK	Kwigillingok, AK [Kwigillingok Seaplane Base], USA
+KWN	Quinhagak, AK [Quinhagak Airport], USA
+KWP	West Point, AK [West Point Seaplane Base], USA
+KWT	Kwethluk, AK [Kwethluk Airport], USA
+KXA	Kasaan, AK [Kasaan Seaplane Base], USA
+KYK	Karluk, AK [Karluk Airport], USA
+KYL	Key Largo, FL, USA
+KYU	Koyukuk, AK [Koyukuk Airport], USA
+KZB	Zachar Bay, AK [Zachar Bay Seaplane Base], USA
+KZH	Kizhuyak, AK, USA
+LAA	Lamar, CO [Lamar Municipal Airport], USA
+LAF	Lafayette, IN [Purdue University Airport], USA
+LAL	Lakeland, FL [Lakeland Regional Airport], USA
+LAM	Los Alamos, NM [Los Alamos Airport], USA
+LAN	Lansing, MI [Capital City Airport], USA
+LAR	Laramie, WY [Laramie Regional Airport], USA
+LAS	Las Vegas, NV [McCarran International Airport], USA
+LAW	Lawton, OK [Lawton Municipal Airport], USA
+LAX	Los Angeles, CA [Los Angeles International Airport], USA
+LBB	Lubbock, TX [Lubbock International Airport], USA
+LBE	Latrobe, PA [Westmoreland County Airport], USA
+LBF	North Platte, NE [North Platte Regional Airport], USA
+LBL	Liberal, KS [Liberal Municipal Airport], USA
+LBO	Lusambo, Zaire
+LBT	Lumberton, NC [Lumberton Municipal Airport], USA
+LCH	Lake Charles, LA [Lake Charles Regional Airport], USA
+LCI	Laconia, NH [Laconia Municipal Airport], USA
+LCK	Columbus, OH [Rickenbacker International Airport], USA
+LDJ	Linden, NJ [Linden Airport], USA
+LDM	Ludington, MI [Mason County Airport], USA
+LEB	Lebanon, NH [Lebanon Municipal Airport], USA
+LEE	Leesburg, FL [Leesburg Municipal Airport], USA
+LEM	Lemmon, SD [Lemmon Municipal Airport], USA
+LEW	Auburn/Lewiston, ME [Auburn/Lewiston Municipal Airport], USA
+LEX	Lexington, KY [Blue Grass Airport], USA
+LFI	Hampton, VA [Langley Air Force Base], USA
+LFK	Lufkin, TX [Angelina County Airport], USA
+LFN	Louisburg, NC [North Raleigh Airport], USA
+LFT	Lafayette, LA [Lafayette Regional Airport], USA
+LGA	New York, NY [La Guardia Airport], USA
+LGB	Long Beach, CA [Long Beach Airport (Daugherty Field)], USA
+LGC	La Grange, GA [Callaway Airport], USA
+LGD	La Grande, OR [La Grande/Union County Airport], USA
+LGF	Yuma Proving Ground (Yuma), AZ [Laguna Army Air Field], USA
+LGU	Logan, UT [Logan-Cache Airport], USA
+LHB	Lost Harbor, AK, USA
+LHD	Anchorage, AK [Lake Hood Seaplane Base], USA
+LHU	Lake Havasu City, AZ, USA
+LHV	Lock Haven, PA [William T. Piper Memorial Airport], USA
+LHX	La Junta, CO [La Junta Municipal Airport], USA
+LIA	Lima, OH, USA
+LIC	Limon, CO [Limon Municipal Airport], USA
+LIH	Lihue, HI [Lihue Airport], USA
+LIJ	Long Island, AK, USA
+LIT	Little Rock, AR [Adams Field], USA
+LIV	Livingood, AK, USA
+LIY	Hinesville, GA [Liberty County Airport], USA
+LJC	Louisville, KY [Inter Continental Airport], USA
+LJN	Angleton/Lake Jackson, TX [Brazoria County Airport], USA
+LKE	Seattle, WA [Lake Union Chrysler Air Seaplane Base], USA
+LKI	Duluth, MN [Lakeside USAF], USA
+LKK	Kulik Lake, AK [Kulik Lake Airport], USA
+LKP	Lake Placid, NY [Lake Placid Airport], USA
+LKS	Lakeside, TX, USA
+LKV	Lakeview, OR [Lake County Airport], USA
+LLD	Loveland, CO, USA
+LLU	Lamar, MO [Lamar Municipal Airport], USA
+LLX	Lyndonville, VT [Caledonia County Airport], USA
+LLY	Mount Holly, NJ [South Jersey Regional Airport], USA
+LMA	Lake Minchumina, AK, USA
+LMC	Lawrence, KS, USA
+LMP	Lampedusa, Lampedusa Island, Italy
+LMS	Louisville, MS [Louisville-Winston County Airport], USA
+LMT	Klamath Falls, OR [Klamath Falls International Airport], USA
+LNA	West Palm Beach, FL [Palm Beach County Park], USA
+LND	Lander, WY [Hunt Field], USA
+LNI	Lonely, AK [Lonely Air Station], USA
+LNK	Lincoln, NE [Lincoln Municipal Airport], USA
+LNL	Land O'Lakes, WI [Kings Land O'Lakes Airport], USA
+LNN	Willoughby, OH [Lost Nation Airport], USA
+LNP	Wise, VA [Lonesome Pine Airport], USA
+LNR	Lone Rock, WI [Tri-County Regional Airport], USA
+LNS	Lancaster, PA [Lancaster Airport], USA
+LNY	Lanai City, HI [Lanai Airport], USA
+LOG	Longview, WA, USA
+LOL	Lovelock, NV [Derby Field], USA
+LOR	Fort Rucker/Ozark, AL [Lowe Army Heliport], USA
+LOT	Lockport/Chicago/Romeoville, IL [Lewis University Airport], USA
+LOU	Louisville, KY [Bowman Field], USA
+LOW	Louisa, VA [Louisa County Airport/Freeman Field], USA
+LOZ	London, KY [London-Corbin Airport/Magee Field], USA
+LPC	Lompoc, CA [Lompoc Airport], USA
+LPO	La Porte, IN [La Porte Municipal Airport], USA
+LPS	Lopez, WA [Lopez Island Airport], USA
+LPW	Little Port Walker, AK, USA
+LQK	Pickens, SC [Pickens County Airport], USA
+LQR	Larned, KS [Larned-Pawnee County Airport], USA
+LRD	Laredo, TX [Laredo International Airport], USA
+LRF	Jacksonville, AR [Little Rock Air Force Base], USA
+LRJ	Le Mars, IA [Le Mars Municipal Airport], USA
+LRK	Lincoln River, AK, USA
+LRN	Moses Lake, WA [Larson Air Force Base], USA
+LRO	Sharpe Army Depot (Lathrop), CA [Sharpe Army Air Field], USA
+LRU	Las Cruces, NM [Las Cruces International Airport], USA
+LSB	Lordsburg, NM [Lordsburg Municipal Airport], USA
+LSD	Lexington Blue Grass Depot, KY [Creech Army Air Field], USA
+LSE	La Crosse, WI/Winona, MN [La Crosse Municipal Airport], USA
+LSF	Fort Benning (Columbus), GA [Lawson Army Air Field], USA
+LSK	Lusk, WY [Lusk Municipal Airport], USA
+LSN	Los Banos, CA [Los Banos Municipal Airport], USA
+LSR	Lost River, AK [Lost River 1 Airport], USA
+LSV	Las Vegas, NV [Nellis Air Force Base], USA
+LTH	Lathrop Wells, NV, USA
+LTS	Altus, OK [Altus Air Force Base], USA
+LTU	La Touche, AK, USA
+LTW	Leonardtown, MD [St. Mary's County Airport], USA
+LUF	Glendale/Phoenix, AZ [Luke Air Force Base], USA
+LUK	Cincinnati, OH [Cincinnati Municipal Airport/Lunken Field], USA
+LUL	Laurel, MS [Hesler-Noble Field], USA
+LUN	Lusaka [Lusaka International Airport], Zambia
+LUP	Kalaupapa, HI [Kalaupapa Airport], USA
+LUR	Cape Lisburne, AK [Cape Lisburne LRRS], USA
+LUS	Lusanga, Zaire
+LVD	Lime Village, AK [Lime Village Airport], USA
+LVK	Livermore, CA [Livermore Municipal Airport], USA
+LVL	Lawrenceville, VA [Lawrenceville/Brunswick Municipal Airport], USA
+LVM	Livingston, MT [Mission Field], USA
+LVS	Las Vegas, NM [Las Vegas Municipal Airport], USA
+LWB	Greenbrier (Lewisburg), WV [Greenbrier Valley Airport], USA
+LWC	Lawrence, KS [Lawrence Municipal Airport], USA
+LWL	Wells, NV [Harriet Field], USA
+LWM	Lawrence, MA [Lawrence Municipal Airport], USA
+LWS	Lewiston, ID [Lewiston-Nez Perce County Airport], USA
+LWT	Lewistown, MT [Lewistown Municipal Airport], USA
+LWV	Lawrenceville, IL [Lawrenceville-Vincennes International Airport], USA
+LXL	Little Falls, MN [Little Falls-Morrison County Airport], USA
+LXN	Lexington, NE [Jim Kelly Field], USA
+LXV	Leadville, CO [Lake County Airport], USA
+LYH	Lynchburg, VA [Lynchburg Regional Airport/Preston Glenn Field], USA
+LYO	Lyons, KS [Lyons-Rice County Municipal Airport], USA
+LYU	Ely, MN [Ely Municipal Airport], USA
+LZU	Lawrenceville, GA [Gwinnett County Airport-Briscoe Field], USA
+MAC	Macon, GA [Herbert Smart Downtown Airport], USA
+MAE	Madera, CA [Madera Municipal Airport], USA
+MAF	Midland/Odessa, TX [Midland International Airport], USA
+MAW	Malden, MO [Malden Municipal Airport], USA
+MBG	Mobridge, SD [Mobridge Municipal Airport], USA
+MBL	Manistee, MI [Manistee County-Blacker Airport], USA
+MBS	Saginaw, MI [Tri City International Airport], USA
+MBY	Moberly, MO [Omar N. Bradley Airport], USA
+MCB	McComb, MS [McComb/Pike County/John E. Lewis Field], USA
+MCC	Sacramento, CA [Mc Clellan Air Force Base], USA
+MCD	Mackinac Island, MI [Mackinac Island Airport], USA
+MCE	Merced, CA [Merced Municipal Airport/Macready Field], USA
+MCF	Tampa, FL [Mac Dill Air Force Base], USA
+MCG	McGrath, AK [McGrath Airport], USA
+MCI	Kansas City, MO [Kansas City International Airport], USA
+MCK	McCook, NE [McCook Municipal Airport], USA
+MCL	McKinley Park, AK [McKinley National Park Airport], USA
+MCN	Macon, GA [Middle Georgia Regional Airport], USA
+MCO	Orlando, FL [Orlando International Airport], USA
+MCW	Mason City, IA [Mason City Municipal Airport], USA
+MDA	San Antonio, TX [Martindale Army Air Field (Texas Army National Guard Airport)], USA
+MDD	Midland, TX [Midland Airpark], USA
+MDF	Medford, WI [Taylor County Airport], USA
+MDH	Carbondale/Murphysboro, IL [Southern Illinois Airport], USA
+MDJ	Madras, OR [City-County Airport], USA
+MDN	Madison, IN [Madison Municipal Airport], USA
+MDO	Middleton Island, AK [Middleton Island Airport], USA
+MDR	Medfra, AK [Medfra Airport], USA
+MDT	Harrisburg (Middletown), PA [Harrisburg International Airport], USA
+MDW	Chicago, IL [Chicago Midway Airport], USA
+MEI	Meridian, MS [Key Field], USA
+MEJ	Meadville, PA [Port Meadville Airport], USA
+MEM	Memphis, TN [Memphis International Airport], USA
+MEO	Manteo, NC [Dare County Regional Airport], USA
+MER	Merced, CA [Castle Air Force Base], USA
+MEV	Minden, NV [Douglas County Airport], USA
+MFD	Mansfield, OH [Mansfield Lahm Municipal Airport], USA
+MFE	McAllen, TX [McAllen Miller International Airport], USA
+MFI	Marshfield, WI [Marshfield Municipal Airport], USA
+MFR	Medford, OR [Medford-Jackson County Airport], USA
+MFV	Melfa, VA [Accomack County Airport], USA
+MFW	Miami/Fort Lauderdale/West Palm Beach, FL [Metropolitan Area], USA
+MGC	Michigan City, IN [Michigan City Airport], USA
+MGE	Marietta, GA [Dobbins Air Reserve Base], USA
+MGI	Matagorda, TX [Matagorda Peninsula Airport], USA
+MGJ	Montgomery, NY [Orange County Airport], USA
+MGM	Montgomery, AL [Dannelly Field], USA
+MGR	Moultrie, GA [Moultrie Municipal Airport], USA
+MGW	Morgantown, WV [Morgantown Municipal Airport-Walter L. Bill Hart Field], USA
+MGY	Dayton, OH [Dayton General Airport South], USA
+MHE	Mitchell, SD [Mitchell Municipal Airport], USA
+MHK	Manhattan, KS [Manhattan Municipal Airport], USA
+MHL	Marshall, MO [Marshall Memorial Municipal Airport], USA
+MHM	Minchumina, AK [Minchumina Airport], USA
+MHN	Mullen, NE [Hooker County Airport], USA
+MHP	Metter, GA [Metter Municipal Airport], USA
+MHR	Sacramento, CA [Mather Air Force Base], USA
+MHS	Mount Shasta, CA, USA
+MHT	Manchester, NH [Manchester Airport], USA
+MHV	Mojave, CA [Mojave Airport], USA
+MIA	Miami, FL [Miami International Airport], USA
+MIB	Minot, ND [Minot Air Force Base], USA
+MIC	Minneapolis, MN [Crystal Airport], USA
+MIE	Muncie, IN [Delaware County Airport-Johnson Field], USA
+MIF	Monahans, TX [Roy Hurd Memorial Airport], USA
+MIO	Miami, OK [Miami Municipal Airport], USA
+MIQ	Omaha, NE [Millard Airport], USA
+MIT	Shafter, CA [Shafter Airport-Minter Field], USA
+MIV	Millville, NJ [Millville Municipal Airport], USA
+MIW	Marshalltown, IA [Marshalltown Municipal Airport], USA
+MJQ	Jackson, MN [Jackson Municipal Airport], USA
+MKC	Kansas City, MO [Kansas City Downtown Airport], USA
+MKE	Milwaukee, WI [General Mitchell International Airport], USA
+MKF	Columbus, GA [McKenna Army Air Field], USA
+MKG	Muskegon, MI [Northside Airport], USA
+MKK	Molokai/Hoolehua (Kaunakakai), HI [Molokai Airport], USA
+MKL	Jackson, TN [McKellar-Sipes Regional Airport], USA
+MKO	Muskogee, OK [Davis Field], USA
+MKT	Mankato, MN [Mankato Municipal Airport], USA
+MLB	Melbourne, FL [Melbourne International Airport], USA
+MLC	McAlester, OK [McAlester Regional Airport], USA
+MLD	Malad City, ID [Malad City Airport], USA
+MLF	Milford, UT [Milford Municipal Airport], USA
+MLI	Moline, IL [Quad-City Airport], USA
+MLJ	Milledgeville, GA [Baldwin County Airport], USA
+MLK	Malta, MT [Malta Airport], USA
+MLL	Marshall, AK [Marshall Airport], USA
+MLS	Miles City, MT [Frank Wiley Field], USA
+MLT	Millinocket, ME [Millinocket Municipal Airport], USA
+MLU	Monroe, LA [Monroe Regional Airport], USA
+MLY	Manley Hot Springs, AK [Manley Hot Springs Airport], USA
+MMH	Mammoth Lakes, CA [Mammoth Lakes Airport], USA
+MMI	Athens, TN [McMinn County Airport], USA
+MML	Marshall, MN [Marshall Municipal Airport-Ryan Field], USA
+MMN	Stow, MA [Minute Man Air Field], USA
+MMR	Austin, TX [Camp Maybry], USA
+MMS	Marks, MS [Selfs Airport], USA
+MMT	Columbia, SC [McEntire Air National Guard Base], USA
+MMU	Morristown, NJ [Morristown Municipal Airport], USA
+MMV	McMinnville, OR [McMinnville Municipal Airport], USA
+MND	Medina, CA, USA
+MNM	Menominee, MI [Menominee-Marinette Twin County Airport], USA
+MNN	Marion, OH [Marion Municipal Airport], USA
+MNT	Minto, AK [Minto Airport], USA
+MNZ	Manassas, VA [Manassas Regional Airport/Harry P. Davis Field], USA
+MOB	Mobile, AL [Bates Field], USA
+MOD	Modesto, CA [Modesto City-County Airport-Harry Sham Field], USA
+MOP	Mount Pleasant, MI [Mount Pleasant Municipal Airport], USA
+MOR	Morristown, TN [Moore-Murrell Airport], USA
+MOS	Elim, AK [Moses Point Airport], USA
+MOT	Minot, ND [Minot International Airport], USA
+MOU	Mountain Village, AK [Mountain Village Airport], USA
+MOX	Morris, MN [Morris Municipal Airport], USA
+MPB	Miami, FL [Watson Island International Seaplane Base], USA
+MPE	Madison, CT [Griswold Airport], USA
+MPJ	Morrilton, AR [Petit Jean Park], USA
+MPO	Mount Pocono, PA [Pocono Mountains Municipal Airport], USA
+MPR	McPherson, KS [McPherson Airport], USA
+MPS	Mount Pleasant, TX [Mount Pleasant Municipal Airport], USA
+MPV	Barre/Montpelier, VT [Edward F. Knapp State Airport], USA
+MPZ	Mount Pleasant, IA [Mount Pleasant Municipal Airport], USA
+MQB	Macomb, IL [Macomb Municipal Airport], USA
+MQI	Quincy, MA [Heliport], USA
+MQJ	Indianapolis, IN [Mount Comfort Airport], USA
+MQT	Marquette, MI [Marquette County Airport], USA
+MQW	McRae, GA [Telfair-Wheeler Airport], USA
+MQY	Smyrna, TN [Smyrna Airport], USA
+MRB	Martinsburg, WV [Eastern West Virginia Regional Airport/Shepherd Field], USA
+MRC	Columbia/Mount Pleasant, TN [Maury County Airport], USA
+MRF	Marfa, TX [Marfa Municipal Airport], USA
+MRI	Anchorage, AK [Merrill Field], USA
+MRK	Marco Island, FL [Marco Island Airport], USA
+MRN	Morganton, NC [Morganton-Lenoir Airport], USA
+MRY	Monterey, CA [Monterey Peninsula Airport], USA
+MSC	Mesa, AZ [Falcon Field], USA
+MSD	Mount Pleasant, UT [Mount Pleasant Airport], USA
+MSL	Muscle Shoals, AL [Muscle Shoals Regional Airport], USA
+MSN	Madison, WI [Dane County Regional Airport-Truax Field], USA
+MSO	Missoula, MT [Missoula International Airport], USA
+MSP	Minneapolis/St. Paul, MN [Minneapolis-St. Paul International (Wold-Chamberlain) Airport], USA
+MSS	Massena, NY [Massena International Airport-Richards Field], USA
+MSV	Monticello, NY [Sullivan County International Airport], USA
+MSY	New Orleans, LA [New Orleans International Airport (Moisant Field)], USA
+MTC	Mount Clemens, MI [Selfridge Air National Guard Base], USA
+MTH	Marathon, FL [Marathon Airport], USA
+MTJ	Montrose, CO [Montrose Regional Airport], USA
+MTM	Metlakatla, AK [Metlakatla Airport], USA
+MTN	Baltimore, MD [Martin State Airport], USA
+MTO	Mattoon/Charleston, IL [Coles County Memorial Airport], USA
+MTP	Montauk, NY [Montauk Airport], USA
+MTW	Manitowoc, WI [Manitowoc County Airport], USA
+MTX	Fairbanks, AK [Metro Field], USA
+MUE	Kamuela, HI [Waimea-Kohala Airport], USA
+MUI	Fort Indiantown Gap (Anvle), PA [Muir Army Air Field], USA
+MUL	Moultrie, GA [Spence Airport], USA
+MUO	Mountain Home, ID [Mountain Home Air Force Base], USA
+MUT	Muscatine, IA [Muscatine Municipal Airport], USA
+MUU	Mount Union, PA [Huntingdon County Airport], USA
+MUV	Philadelphia, PA [Mustin ALF], USA
+MVC	Monroeville, AL [Monroe County Airport], USA
+MVE	Montevideo, MN [Montevideo-Chippewa County Airport], USA
+MVH	Macksville, KS [Smith Field], USA
+MVL	Morrisville/Stowe, VT [Morrisville-Stowe State Airport], USA
+MVM	Kayenta, AZ [Kayenta Airport], USA
+MVN	Mount Vernon, IL [Mount Vernon Airport], USA
+MVW	Mount Vernon, WA [Barker Airport], USA
+MVY	Martha's Vineyard (Vineyard Haven), MA [Martha's Vineyard Airport], USA
+MWA	Marion, IL [Williamson County Regional Airport], USA
+MWC	Milwaukee, WI [Lawrence J. Timmerman Airport], USA
+MWH	Moses Lake, WA [Grant County Airport], USA
+MWL	Mineral Wells, TX [Mineral Wells Airport], USA
+MWM	Windom, MN [Windom Municipal Airport], USA
+MWO	Middletown, OH [Hook Field Municipal Airport], USA
+MWS	Mount Wilson, CA, USA
+MXA	Manila, AR [Manila Municipal Airport], USA
+MXC	Monticello, UT [San Juan County Airport], USA
+MXE	Maxton, NC [Laurinburg-Maxton Airport], USA
+MXF	Montgomery, AL [Maxwell Air Force Base], USA
+MXG	Marlborough, MA, USA
+MXO	Monticello, IA [Monticello Municipal Airport], USA
+MYF	San Diego, CA [Montgomery Field], USA
+MYH	Marble Canyon, AZ, USA
+MYK	May Creek, AK [May Creek Airport], USA
+MYL	McCall, ID [McCall Airport], USA
+MYR	Myrtle Beach, SC [Myrtle Beach Jetport], USA
+MYU	Mekoryuk, AK [Mekoryuk Airport], USA
+MYV	Marysville, CA [Yuba County Airport], USA
+MZJ	Marana, AZ [Pinal Airpark], USA
+MZZ	Marion, IN [Marion Municipal Airport], USA
+NAB	Albany, GA [Albany Naval Air Station], USA
+NAX	Ewa, HI [Barbers Point Naval Air Station (John Rodgers Field)], USA
+NBE	Dallas, TX [Dallas Naval Air Station (Hensley Field)], USA
+NBG	New Orleans, LA [New Orleans Naval Air Station (Alvin Callender Field)], USA
+NBJ	Foley, AL [Barin Naval Outlying Field], USA
+NBU	Glenview, IL [Glenview Naval Air Station], USA
+NCN	New Chenega, AK, USA
+NCO	North Kingstown/Quonset Point, RI [Quonset State Airport], USA
+NCQ	Marietta, GA [Atlanta Naval Air Station], USA
+NDP	Pensacola, FL [Ellyson Naval Air Station], USA
+NDV	Washington, DC [Anacostia U.S. Navy Heliport], USA
+NEA	Brunswick, GA [Glynco Naval Air Station], USA
+NEL	Lakehurst, NJ [Lakehurst NAES (Maxfield Field)], USA
+NEN	Jacksonville, FL [Whitehouse Naval Outlying Field], USA
+NES	New York, NY [New York Skyports Inc. Seaplane Base], USA
+NEW	New Orleans, LA [Lakefront Airport], USA
+NFB	Mount Clemens, MI [Detroit Naval Air Facility], USA
+NFD	Summerdale, AL [Summerdale Naval Outlying Field], USA
+NFE	Fentress, VA [Fentress Naval Auxiliary Landing Field], USA
+NFJ	Milton, FL [Choctaw Naval Outlying Field], USA
+NFL	Fallon, NV [Fallon Naval Air Station (Van Voorhis Field)], USA
+NFW	Fort Worth, TX [Fort Worth Naval Air Station], USA
+NGC	Grand Canyon, AZ [North Rim], USA
+NGF	Kaneohe, HI [Kaneohe Bay Marine Corps Air Field], USA
+NGP	Corpus Christi, TX [Corpus Christi Naval Air Station], USA
+NGT	Berclair, TX [Goliad Naval Auxiliary Landing Field], USA
+NGU	Norfolk, VA [Norfolk Naval Air Station (Chambers Field)], USA
+NGW	Corpus Christi, TX [Cabaniss Field Naval Outlying Field], USA
+NGZ	Alameda, CA [Alameda Naval Air Station (Nimitz Field)], USA
+NHK	Patuxent River, MD [Patuxent River Naval Air Station (Trapnell Field)], USA
+NHX	Foley, AL [Foley Municipal Airport], USA
+NHZ	Brunswick, ME [Brunswick Naval Air Station], USA
+NIB	Nikolai, AK [Nikolai Airport], USA
+NID	China Lake, CA [China Lake NAWS/Armitage Field], USA
+NIE	Niblack, AK, USA
+NIN	Ninilchik, AK [Ninilchik Airport], USA
+NIP	Jacksonville, FL [Jacksonville Naval Air Station (Towers Field)], USA
+NIR	Beeville, TX [Chase Field Naval Air Station], USA
+NJK	El Centro, CA [El Centro Naval Air Facility], USA
+NJM	Swansboro, NC [Bogue Field Marine Corps Auxiliary Landing Field], USA
+NJP	Warminster, PA [Warminster NAWC Airport], USA
+NJW	Moscow, MS [Joe Williams Naval Outlying Field], USA
+NKI	Naukiti, AK, USA
+NKT	Cherry Point, NC [Cherry Point Marine Corps Air Station/Cunningham Field], USA
+NKV	Nichen Cove, AK, USA
+NKX	San Diego, CA [Miramar Naval Air Station (Mitscher Field)], USA
+NLC	Lemoore, CA [Lemoore Naval Air Station (Reeves Field)], USA
+NLE	Niles, MI [Jerry Tyler Memorial Airport], USA
+NLG	Nelson Lagoon, AK [Nelson Lagoon Airport], USA
+NME	Nightmute, AK [Nightmute Airport], USA
+NMM	Meridian, MS [Meridian Naval Air Station (McCain Field)], USA
+NNK	Naknek, AK [Naknek Airport], USA
+NNL	Nondalton, AK [Nondalton Airport], USA
+NOT	Novato, CA [Gnoss Field], USA
+NOW	Port Angeles, WA [Port Angeles Coast Guard Air Station], USA
+NPA	Pensacola, FL [Pensacola Naval Air Station (Forrest Sherman Field)], USA
+NPH	Nephi, UT [Nephi Municipal Airport], USA
+NPS	Honolulu, HI [Ford Island Naval Auxiliary Landing Field], USA
+NPT	Newport, RI [Newport State Airport], USA
+NQA	Millington, TN [Memphis Naval Air Station], USA
+NQI	Kingsville, TX [Kingsville Naval Air Station], USA
+NQX	Key West, FL [Key West Naval Air Station (Boca Chica Field)], USA
+NRB	Mayport, FL [Mayport Naval Air Station], USA
+NRC	Crow's Landing, CA [Crow's Landing Naval Auxiliary Landing Field], USA
+NRI	Afton, OK [Shangri La Heliport], USA
+NRN	Norton, KS [Norton Municipal Airport], USA
+NRS	Imperial Beach, CA [Imperial Beach Naval Outlying Field], USA
+NSE	Milton, FL [Whiting Field Navalk Air Station-North], USA
+NSF	Camp Springs, MD [Andrews Naval Air Field], USA
+NTD	Point Mugu, CA [Point Mugu NAWS Airport], USA
+NTJ	Manti, UT [Manti-Ephraim Airport], USA
+NTK	Tustin, CA [Tustin Marine Corps Air Station], USA
+NTU	Virginia Beach, VA [Oceana Naval Air Station (Apollo Soucek Field)], USA
+NUC	San Clemente Island, CA [San Clemente Island Naval Auxiliary Landing Field (Frederick Sherman Field)], USA
+NUI	Nuiqsut, AK [Niuqsut Airport], USA
+NUL	Nulato, AK [Nulato Airport], USA
+NUN	Pensacola, FL [Saufley Field Naval Outlying Field], USA
+NUP	Nunapitchuk, AK [Nunapitchuk Airport], USA
+NUQ	Mountain View, CA [Moffett Field Naval Air Station], USA
+NUW	Oak Harbor, WA [Whidbey Island Naval Air Station (Ault Field)], USA
+NVD	Nevada, MO [Nevada Municipal Airport], USA
+NWH	Newport, NH [Parlin Field], USA
+NXP	Twentynine Palms, CA [Twentynine Palms EAF Marine Corps Air Ground Combat Center Airport], USA
+NXX	Willow Grove, PA [Willow Grove Naval Air Station], USA
+NYC	New York, NY [Metropolitan Area], USA
+NYG	Quantico, VA [Quantico Marine Corps Air Facility (Turner Field)], USA
+NYL	Yuma, AZ [Yuma Marina Corps Air Station], USA
+NZC	Jacksonville, FL [Cecil Field Naval Air Station], USA
+NZJ	Santa Ana, CA [El Toro Marine Corps Air Station], USA
+NZW	South Weymouth, MA [South Weymouth Naval Air Station (Shea Field)], USA
+NZX	Harold, FL [Harold Naval Outlying Field], USA
+NZY	San Diego, CA [North Island Naval Air Station (Halsey Field)], USA
+OAJ	Jacksonville, NC [Albert J. Ellis Airport], USA
+OAK	Oakland, CA [Metropolitan Oakland International Airport], USA
+OAR	Fort Ord/Monterey, CA [Fritzsche Army Air Field], USA
+OBE	Okeechobee, FL [Okeechobee County Airport], USA
+OBK	Northbrook, IL [Plaza Heliport], USA
+OBT	Oakland, CA [Coliseum Street], USA
+OBU	Kobuk, AK [Kobuk Airport], USA
+OCA	Key Largo, FL [Ocean Reef Club Airport], USA
+OCE	Ocean City, MD [Ocean City Municipal Airport], USA
+OCF	Ocala, FL [Ocala Regional Airport/Jim Taylor Field], USA
+OCH	Nacogdoches, TX [A.L. Mangham Jr. Regional Airport], USA
+OCI	Oceanic, AK, USA
+OCN	Oceanside, CA [Oceanside Municipal Airport], USA
+OCQ	Oconto, WI [Oconto Municipal Airport], USA
+OCW	Washington, NC [Warren Field], USA
+ODM	Oakland, MD [Garrett County Airport], USA
+ODW	Oak Harbor, WA [Oak Harbor Air Park], USA
+ODX	Ord, NE [Evelyn Sharp Field], USA
+OEA	Vincennes, IN [O'Neal Airport], USA
+OEL	Oakley, KS [Oakley Municipal Airport], USA
+OEO	Osceola, WI [L.O. Simenstad Municipal Airport], USA
+OFF	Omaha, NE [Offutt Air Force Base], USA
+OFK	Norfolk, NE [Karl Stefan Memorial Airport], USA
+OFP	Richmond/Ashland, VA [Hanover County Municipal Airport], USA
+OGA	Ogallala, NE [Searle Field], USA
+OGB	Orangeburg, SC [Orangeburg Municipal Airport], USA
+OGD	Ogden, UT [Ogden-Hinckley Airport], USA
+OGG	Kahului, HI [Kahului Airport], USA
+OGM	Ontonagon, MI [Ontonagon County Airport], USA
+OGS	Ogdensburg, NY [Ogdensburg International Airport], USA
+OHC	Northeast Cape, AK, USA
+OIC	Norwich, NY [Lt. Warren Eaton Airport], USA
+OIL	Oil City, PA [Splane Memorial Airport], USA
+OIN	Oberlin, KS [Oberlin Municipal Airport], USA
+OJC	Olathe, KS/Kansas City, MO [Johnson County Executive Airport], USA
+OKC	Oklahoma City, OK [Will Rogers World Airport], USA
+OKK	Kokomo, IN [Kokomo Municipal Airport], USA
+OKM	Okmulgee, OK [Okmulgee Municipal Airport], USA
+OKS	Oshkosh, NE [Garden County Airport], USA
+OKZ	Sandersville, GA [Kaolin Field], USA
+OLD	Old Town, ME [Dewitt Field/Old Town Municipal Airport], USA
+OLE	Olean, NY [Cattaraugus County-Olean Airport], USA
+OLF	Wolf Point, MT [L. M. Clayton Airport], USA
+OLG	Solon Springs, WI [Solon Springs Municipal Airport], USA
+OLH	Old Harbor, AK [Old Harbor Airport], USA
+OLM	Olympia, WA [Olympia Airport], USA
+OLS	Nogales, AZ [Nogales International Airport], USA
+OLU	Columbus, NE [Columbus Municipal Airport], USA
+OLV	Olive Branch, MS [Olive Branch Airport], USA
+OLY	Olney-Noble, IL [Olney-Noble Airport], USA
+OLZ	Oelwein, IA [Oelwein Municipal Airport], USA
+OMA	Omaha, NE [Eppley Airfield], USA
+OME	Nome, AK [Nome Airport], USA
+OMK	Omak, WA [Omak Airport], USA
+ONA	Winona, MN [Winona Municipal Airport-Max Conrad Field], USA
+ONH	Oneonta, NY [Oneonta Municipal Airport], USA
+ONL	O'Neill, NE [The O'Neill Municipal Airport-John L. Baker Field], USA
+ONM	Socorro, NM [Socorro Municipal Airport], USA
+ONN	Onion Bay, AK, USA
+ONO	Ontario, OR [Ontario Municipal Airport], USA
+ONP	Newport, OR [Newport Municipal Airport], USA
+ONT	Ontario, CA [Ontario International Airport], USA
+ONY	Olney, TX [Olney Municipal Airport], USA
+OOA	Oskaloosa, IA [Oskaloosa Municipal Airport], USA
+OOK	Toksook Bay, AK [Toksook Bay Airport], USA
+OPF	Miami, FL [Opa Locka Airport], USA
+OPL	Opelousas, LA [St. Landry Parish Airport-Ahart Field], USA
+OPN	Thomaston, GA [Thomaston-Upson County Airport], USA
+OQW	Maquoketa, IA [Maquoketa Municipal Airport], USA
+ORD	Chicago, IL [Chicago-O'Hare International Airport], USA
+ORE	Orange, MA [Orange Municipal Airport], USA
+ORF	Norfolk/Virginia Beach/Williamsburg, VA [Norfolk International Airport], USA
+ORH	Worcester, MA [Worcester Municipal Airport], USA
+ORI	Port Lions, AK [Port Lions Airport], USA
+ORL	Orlando, FL [Executive Airport], USA
+ORQ	Norwalk, CT, USA
+ORT	Northway, AK [Northway Airport], USA
+ORV	Noorvik, AK [Robert (Bob) Curtis Memorial Airport], USA
+OSB	Osage Beach, MO [Grand Glaize-Osage Beach Airport], USA
+OSC	Oscoda, MI [Oscoda-Wurtsmith Airport], USA
+OSH	Oshkosh, WI [Wittman Regional Airport], USA
+OSU	Columbus, OH [Ohio State University Airport], USA
+OSX	Kosciusko, MS [Kosciusko-Attala County Airport], USA
+OTG	Worthington, MN [Worthington Municipal Airport], USA
+OTH	North Bend, OR [North Bend Municipal Airport], USA
+OTM	Ottumwa, IA [Ottumwa Industrial Airport], USA
+OTN	Oaktown, IN [Green Airport], USA
+OTO	Otto, NM, USA
+OTS	Anacortes, WA [Anacortes Airport], USA
+OTZ	Kotzebue, AK [Ralph Wien Memorial Airport], USA
+OUN	Norman, OK [University of Oklahoma Westheimer Airport], USA
+OVE	Oroville, CA [Oroville Municipal Airport], USA
+OVO	North Vernon, IN [North Vernon Airport], USA
+OWA	Owatonna, MN [Owatonna Municipal Airport], USA
+OWB	Owensboro, KY [Owensboro-Daviess County Airport], USA
+OWD	Norwood, MA [Norwood Memorial Airport], USA
+OWI	Ottawa, KS [Ottawa Municipal Airport], USA
+OWK	Norridgewock, ME [Central Maine Airport of Norridgewock], USA
+OWX	Ottawa, OH [Putnam County Airport], USA
+OXC	Oxford, CT [Waterbury-Oxford Airport], USA
+OXD	Oxford, OH [Miami University Airport], USA
+OXI	Knox, IN [Starke County Airport], USA
+OXR	Oxnard, CA [Oxnard Airport], USA
+OXV	Knoxville, IA [Knoxville Municipal Airport], USA
+OYS	Yosemite Park, CA, USA
+OZA	Ozona, TX [Ozona Municipal Airport], USA
+OZR	Fort Rucker (Ozark), AL [Cairns Army Air Field], USA
+PAE	Everett, WA [Snohomish County Airport (Paine Field)], USA
+PAH	Paducah, KY [Barkley Regional Airport], USA
+PAK	Hanapepe, HI [Port Allen Airport], USA
+PAM	Panama City, FL [Tyndall Air Force Base], USA
+PAO	Palo Alto, CA [Palo Alto Airport of Santa Clara County], USA
+PAQ	Palmer, AK [Palmer Municipal Airport], USA
+PBA	Point Barrow, AK [Point Barrow Airport], USA
+PBF	Pine Bluff, AR [Grider Field], USA
+PBG	Plattsburgh, NY [Plattsburgh Air Force Base], USA
+PBI	West Palm Beach, FL [Palm Beach International Airport], USA
+PBK	Pack Creek, AK, USA
+PBY	Kayenta, AZ [Bedard Field], USA
+PCA	Portage Creek, AK [Portage Creek Airport], USA
+PCD	Prairie du Chien, WI [Prairie du Chien Municipal Airport], USA
+PCE	Painter Creek, AK, USA
+PCK	Porcupine Creek, AK [Porcupine Creek Airport], USA
+PCT	Princeton (Rocky Hill), NJ [Princeton Airport], USA
+PCU	Picayune, MS [Picayune Pearl River County Airport], USA
+PCW	Port Clinton, OH [Carl R. Keller Field], USA
+PDB	Pedro Bay, AK [Pedro Bay Airport], USA
+PDK	Atlanta, GA [Dekalb-Peachtree Airport], USA
+PDT	Pendleton, OR [Eastern Oregon Regional Airport at Pendleton], USA
+PDX	Portland, OR [Portland International Airport], USA
+PEC	Pelican, AK [Pelican Seaplane Base], USA
+PEQ	Pecos, TX [Pecos Municipal Airport], USA
+PFA	Paf Warren, AK, USA
+PFC	Pacific City, OR [Pacific City State Airport], USA
+PFD	Fort Frederick, AK, USA
+PFN	Panama City, FL [Panama City-Bay County International Airport], USA
+PGA	Page, AZ [Page Municipal Airport], USA
+PGC	Petersburg, WV [Grant County Airport], USA
+PGD	Punta Gorda, FL [Charlotte County Airport], USA
+PGL	Pascagoula, MS [Trent Lott International Airport], USA
+PGM	Port Graham, AK [Port Graham Airport], USA
+PGO	Pagosa Springs, CO [Stevens Field], USA
+PGR	Paragould, AR [Kirk Field], USA
+PGS	Peach Springs, AZ [Grand Canyon Caverns Airport], USA
+PGV	Greenville, NC [Pitt-Greenville Airport], USA
+PHD	New Philadelphia, OH [Harry Clever Field], USA
+PHF	Newport News/Williamsburg, VA [Newport News/Williamsburg International Airport], USA
+PHG	Phillipsburg, KS [Phillipsburg Municipal Airport], USA
+PHK	Pahokee, FL [Palm Beach County Glades Airport], USA
+PHL	Philadelphia, PA [Philadelphia International Airport], USA
+PHN	Port Huron, MI [St. Clair County International Airport], USA
+PHO	Point Hope, AK [Point Hope Airport], USA
+PHP	Philip, SD [Philip Airport], USA
+PHQ	Ipswich, MA [Snow Airport], USA
+PHT	Paris, TN [Henry County Airport], USA
+PHX	Phoenix, AZ [Phoenix Sky Harbor International Airport], USA
+PIA	Peoria, IL [Greater Peoria Regional Airport], USA
+PIB	Laurel/Hattiesburg, MS [Hattiesburg-Laurel Regional Airport], USA
+PIE	St. Petersburg, FL [St. Petersburg-Clearwater International Airport], USA
+PIF	Pinebelt, MS, USA
+PIH	Pocatello, ID [Pocatello Municipal Airport], USA
+PII	Fairbanks, AK [Phillips Airport], USA
+PIM	Pine Mountain, GA [Callaway Gardens-Harris County Airport], USA
+PIP	Pilot Point, AK [Pilot Point Airport], USA
+PIR	Pierre, SD [Pierre Regional Airport], USA
+PIT	Pittsburgh, PA [Pittsburgh International Airport], USA
+PIZ	Point Lay, AK [Point Lay LRRS], USA
+PJB	Payson, AZ [Payson Airport], USA
+PJS	Port San Juan, AK, USA
+PJY	Pinckneyville, IL [Pinckneyville-Du Quoin Airport], USA
+PKA	Napaskiak, AK [Napaskiak Airport], USA
+PKB	Parkersburg, WV [Wood County Airport-Gill Robb Wilson Field], USA
+PKD	Park Rapids, MN [Park Rapids Municipal Airport], USA
+PKF	Park Falls, WI [Park Falls Municipal Airport], USA
+PLB	Plattsburgh, NY [Clinton County Airport], USA
+PLK	Point Lookout, MO [M. Graham Clark Airport], USA
+PLN	Pellston, MI [Pellston Regional Airport of Emmet County], USA
+PLR	Pell City, AL [St. Clair County Airport], USA
+PLY	Kentland, IN, USA
+PMB	Pembina, ND [Pembina Municipal Airport], USA
+PMD	Palmdale, CA [Palmdale Production Flight/Test Installation Air Force Plant 42 Airport], USA
+PMH	Portsmouth, OH [Greater Portsmouth Regional Airport], USA
+PML	Port Moller, AK, USA
+PMU	Paimiut, AK, USA
+PMX	Palmer, MA [Metropolitan Airport], USA
+PNC	Ponca City, OK [Ponca City Municipal Airport], USA
+PNE	Philadelphia, PA [Northeast Philadelphia Airport], USA
+PNF	Petersons Point, AK, USA
+PNM	Princeton, MN [Princeton Municipal Airport], USA
+PNN	Princeton, ME [Princeton Municipal Airport], USA
+PNS	Pensacola, FL [Pensacola Regional Airport], USA
+PNU	Panguitch, UT [Panguitch Municipal Airport], USA
+PNX	Sherman/Denison, TX [Grayson County Airport], USA
+POB	Fayetteville, NC [Pope Air Force Base], USA
+POC	La Verne, CA [Brackett Field], USA
+POE	Fort Polk, LA [Polk Army Air Field], USA
+POF	Poplar Bluff, MO [Poplar Bluff Municipal Airport], USA
+POH	Pocahontas, IA [Pocahontas Municipal Airport], USA
+POQ	Polk Inlet, AK, USA
+POU	Poughkeepsie, NY [Dutchess County Airport], USA
+POY	Powell, WY [Powell Municipal Airport], USA
+PPA	Pampa, TX [Perry Lefors Field], USA
+PPC	Prospect Creek, AK [Prospect Creek Airport], USA
+PPF	Parsons, KS [Tri-City Airport], USA
+PPM	Pompano Beach, FL [Pompano Beach Airpark], USA
+PPV	Port Protection, AK [Port Protection Seaplane Base], USA
+PQI	Presque Isle, ME [Northern Maine Regional Airport at Presque Isle], USA
+PQN	Pipestone, MN [Pipestone Municipal Airport], USA
+PQS	Pilot Station, AK [Pilot Station Airport], USA
+PRB	Paso Robles, CA [Paso Robles Municipal Airport], USA
+PRC	Prescott, AZ [Ernest A. Love Field], USA
+PRF	Port Johnson, AK, USA
+PRL	Port Oceanic, AK, USA
+PRO	Perry, IA [Perry Municipal Airport], USA
+PRT	Pointe Retreat, AK, USA
+PRW	Prentice, WI [Prentice Airport], USA
+PRX	Paris, TX [Cox Field], USA
+PRZ	Prineville, OR [Prineville Airport], USA
+PSB	Philipsburg, PA [Mid-State Airport], USA
+PSC	Pasco, WA [Tri-Cities Airport], USA
+PSF	Pittsfield, MA [Pittsfield Municipal Airport], USA
+PSG	Petersburg, AK [James C. Johnson Petersburg Airport], USA
+PSK	Dublin, VA [New River Valley Airport], USA
+PSM	Portsmouth, NH [Pease Air National Guard Base], USA
+PSN	Palestine, TX [Palestine Municipal Airport], USA
+PSP	Palm Springs, CA [Palm Springs Regional Airport], USA
+PSQ	Essington (Philadelphia), PA [Philadelphia Seaplane Base], USA
+PSX	Palacios, TX [Palacios Municipal Airport], USA
+PTA	Port Alsworth, AK [Port Alsworth Airport], USA
+PTB	Petersburg, VA [Petersburg Municipal Airport], USA
+PTC	Port Alice, AK [Pprt Alice Seaplane Base], USA
+PTD	Port Alexander, AK [Port Alexander Seaplane Base], USA
+PTH	Port Heiden, AK [Port Heiden Airport], USA
+PTK	Pontiac, MI [Oakland-Pontiac Airport], USA
+PTL	Port Armstrong, AK, USA
+PTN	Patterson/Morgan City, LA [Harry P. Williams Memorial Airport], USA
+PTR	Pleasant Harbor, AK, USA
+PTS	Pittsburg, KS [Atkinson Municipal Airport], USA
+PTT	Pratt, KS [Pratt Industrial Airport], USA
+PTU	Platinum, AK [Platinum Airport], USA
+PTV	Porterville, CA [Porterville Municipal Airport], USA
+PTW	Pottstown, PA [Pottstown Limerick Airport], USA
+PUB	Pueblo, CO [Pueblo Memorial Airport], USA
+PUC	Price, UT [Carbon County Airport], USA
+PUL	Poulsbo, WA [Port of Poulsbo Marina Moorage Seaplane Base], USA
+PUO	Prudhoe Bay, AK [Prudhoe Bay Airport], USA
+PUS	Pusan [Kimhae], South Korea
+PUW	Pullman, WA/Moscow, ID [Pullman/Moscow Regional Airport], USA
+PVB	Platteville, WI [Grant County Airport], USA
+PVC	Provincetown, MA [Provincetown Municipal Airport], USA
+PVD	Providence, RI [Theodore Francis Green State Airport], USA
+PVF	Placerville, CA [Placerville Airport], USA
+PVG	Portsmouth, VA [Hampton Roads Airport], USA
+PVU	Provo, UT [Provo Municipal Airport], USA
+PVW	Plainview, TX [Hale County Airport], USA
+PVY	Pope Vanoy, AK, USA
+PVZ	Painesville, OH [Casement Airport], USA
+PWA	Oklahoma City, OK [Wiley Post Airport], USA
+PWD	Plentywood, MT [Sher-Wood Airport], USA
+PWK	Chicago/Prospect Heights/Wheeling, IL [Palwaukee Municipal Airport], USA
+PWM	Portland, ME [Portland International Jetport], USA
+PWR	Port Walter, AK [Port Walter Seaplane Base], USA
+PWT	Bremerton, WA [Bremerton National Airport], USA
+PXE	Perry, GA [Perry-Fort Valley Airport], USA
+PXL	Polacca, AZ [Polacca Airport], USA
+PYG	Pageland, SC [Pageland Airport], USA
+PYL	Perry Island, AK [Perry Island Seaplane Base], USA
+PYM	Plymouth, MA [Plymouth Municipal Airport], USA
+PZQ	Rogers City, MI [Presque Isle County Airport], USA
+QAA	Nora, AK, USA
+QCE	Copper Mountain, CO, USA
+QCW	Wilton, CT, USA
+QDV	Denver, CO [Metropolitan Area], USA
+QFE	Fort Benning (Columbus), GA, USA
+QKB	Breckenridge, CO [Breckenridge Airport], USA
+QKS	Keystone, CO, USA
+QLA	Los Angeles, CA [Metropolitan Area], USA
+QLS	Lausanne [Lausanne-La Blecherette], Switzerland
+QSF	San Francisco, CA [Metropolitan Area], USA
+QUS	Gusau, Nigeria
+QWP	Winter Park, CO, USA
+RAC	Racine, WI [John H. Batten Airport], USA
+RAL	Riverside, CA [Riverside Municipal Airport], USA
+RAP	Rapid City, SD [Rapid City Regional Airport], USA
+RBD	Dallas, TX [Redbird Airport], USA
+RBE	Bassett, NE [Rock County Airport], USA
+RBF	Big Bear, CA [Big Bear City Airport], USA
+RBG	Roseburg, OR [Roseburg Municipal Airport], USA
+RBH	Brooks Lodge (Katmai National Park), AK [Lake Brooks Seaplane Base], USA
+RBK	Rancho California, CA, USA
+RBL	Red Bluff, CA [Red Bluff Municipal Airport], USA
+RBM	Camp Robinson (Little Rock), AR [Robinson Army Air Field/National Guard], USA
+RBN	Fort Jefferson (Dry Tortugas National Park), FL [Garden Key Seaplana Base], USA
+RBW	Walterboro, SC [Walterboro Municipal Airport], USA
+RBY	Ruby, AK [Ruby Airport], USA
+RCA	Rapid City, SD [Ellsworth Air Force Base], USA
+RCE	Roche Harbor, WA [Roche Harbor Airport], USA
+RCK	Rockdale, TX [H. H. Coffield Regional Airport], USA
+RCR	Rochester, IN [Fulton County Airport], USA
+RCT	Reed City, MI [Nartron Field], USA
+RCX	Ladysmith, WI [Rusk County Airport], USA
+RDB	Red Dog, AK [Red Dog Airport], USA
+RDD	Redding, CA [Redding Municipal Airport], USA
+RDG	Reading, PA [Reading Regional Airport/Carl A. Spaatz Field], USA
+RDK	Red Oak, IA [Red Oak Municipal Airport], USA
+RDM	Redmond, OR [Roberts Field], USA
+RDR	Red River, ND, USA
+RDU	Raleigh-Durham, NC [Raleigh-Durham International Airport], USA
+RDV	Red Devil, AK [Red Devil Airport], USA
+RED	Reedsville, PA [Mifflin County Airport], USA
+REE	Lubbock, TX [Reese Air Force Base], USA
+REH	Rehoboth Beach/Dewey Beach, DE [Rehoboth Bay Seaplane Base], USA
+REO	Rome, OR [Rome State Airport], USA
+RFD	Rockford, IL [Greater Rockford Airport], USA
+RFG	Refugio, TX [Rooke Field], USA
+RFK	Anguilla/Rolling Fork, MS [Rollang Field], USA
+RGK	Red Wing, MN [Red Wing Municipal Airport], USA
+RGR	Ranger, TX [Ranger Municipal Airport], USA
+RGV	Rio Grande Valley, TX, USA
+RHI	Rhinelander, WI [Rhinelander-Oneida County Airport], USA
+RHV	San Jose, CA [Reid-Hillview of Santa Clara County Airport], USA
+RIC	Richmond, VA [Richmond International Airport], USA
+RID	Richmond, IN [Richmond Municipal Airport], USA
+RIE	Rice Lake, WI [Rice Lake Municipal Airport], USA
+RIF	Richfield, UT [Richfield Municipal Airport], USA
+RIL	Rifle, CO [Garfield County Regional Airport], USA
+RIR	Riverside (Rubidoux), CA [Flabob Airport], USA
+RIU	Rancho Murieta, CA [Rancho Murieta Airport], USA
+RIV	Riverside, CA [March Air Force Base], USA
+RIW	Riverton, WY [Riverton Regional Airport], USA
+RKD	Rockland, ME [Knox County Regional Airport], USA
+RKH	Rock Hill, SC [Rock Hill/York County Airport/Bryant Field], USA
+RKL	Rockleigh, NJ, USA
+RKP	Rockport, TX [Aransas County Airport], USA
+RKR	Poteau, OK [Robert S. Kerr Airport], USA
+RKS	Rock Springs, WY [Rock Springs-Sweetwater County Airport], USA
+RKW	Rockwood, TN [Rockwood Municipal Airport], USA
+RLA	Rolla, MO [Rolla Downtown Airport], USA
+RLD	Richland, WA [Richland Airport], USA
+RLU	Bornite, AK, USA
+RMC	Rockford, IL [Machesney Airport], USA
+RME	Rome, NY [Griffiss Air Force Base], USA
+RMF	St. Louis, MO [Missouri Air National Guard Airport], USA
+RMG	Rome, GA [Richard B. Russell Airport], USA
+RMP	Rampart, AK [Rampart Airport], USA
+RMT	Rocky Mount, NC [Rocky Mount-Wilson Airport], USA
+RNC	McMinnville, TN [Warren County Memorial Airport], USA
+RND	Universal City/San Antonio, TX [Randolph Air Force Base], USA
+RNG	Rangely, CO [Rangely Airport], USA
+RNH	New Richmond, WI [New Richmond Municipal Airport], USA
+RNO	Reno, NV [Reno Cannon International Airport], USA
+RNT	Renton, WA [Renton Municipal Airport], USA
+RNV	Cleveland, MS [Cleveland Municipal Airport], USA
+RNZ	Rensselaer, IN [Jasper County Airport], USA
+ROA	Roanoke, VA [Roanoke Regional Airport/Woodrum Field], USA
+ROC	Rochester, NY [Greater Rochester International Airport], USA
+ROE	Birmingham, AL [Birmimgham Air National Guard Airport], USA
+ROG	Rogers, AR [Rogers Municipal Airport-Carter Field], USA
+ROL	Roosevelt, UT [Roosevelt Municipal Airport], USA
+ROW	Roswell, NM [Roswell Industrial Air Center Airport], USA
+ROX	Roseau, MN [Roseau Municipal Airport], USA
+RPX	Roundup, MT [Roundup Airport], USA
+RRL	Merrill, WI [Merrill Municipal Airport], USA
+RRQ	Rock Rapids, IA [Rock Rapids Municipal Airport], USA
+RSH	Russian Mission, AK [Russian Mission Airport], USA
+RSJ	Rosario, WA [Rosario Seaplane Base], USA
+RSL	Russell, KS [Russell Municipal Airport], USA
+RSN	Ruston, LA [Ruston Municipal Airport], USA
+RSP	Raspberry Strait, AK, USA
+RST	Rochester, MN [Rochester Municipal Airport], USA
+RSV	Robinson, IL [Robinson Municipal Airport], USA
+RSW	Fort Myers, FL [Southwest Florida International Airport], USA
+RSX	Rouses Point, NY [Rouses Point Seaplane Base], USA
+RTD	Rotunda, CA, USA
+RTE	Marguerite Bay, AK, USA
+RTN	Raton, NM [Raton Municipal Airport/Crews Field], USA
+RTO	Colton, CA, USA
+RUI	Ruidoso, NM [Sierra Blanca Regional Airport], USA
+RUT	Rutland, VT [Rutland State Airport], USA
+RVJ	Reidsville, GA [Reidsville Airport], USA
+RVL	Roseville, CA [Fiddyment Field], USA
+RVR	Green River, UT [Green River Municipal Airport], USA
+RVS	Tulsa, OK [Richard Lloyd Jones Jr. Airport], USA
+RWB	Rowan Bay, AK, USA
+RWF	Redwood Falls, MN [Redwood Falls Municipal Airport], USA
+RWI	Rocky Mount, NC [Rocky Mount-Wilson Airport], USA
+RWL	Rawlins, WY [Rawlins Municipal Airport], USA
+RXW	Watersmeet, MI [NRC Airport], USA
+RYV	Watertown, WI [Watertown Municipal Airport], USA
+RYY	Marietta, GA [Cobb County Airport-McCollum Field], USA
+RZH	Lancaster, CA [Quartz Hill], USA
+RZN	Siren, WI [Burnett County Airport], USA
+RZT	Chillicothe, OH [Ross County Airport], USA
+RZZ	Roanoke Rapids, NC [Halifax County Airport], USA
+SAA	Saratoga, WY [Shively Field], USA
+SAC	Sacramento, CA [Sacramento Executive Airport], USA
+SAD	Safford, AZ [Safford Municipal Airport], USA
+SAF	Santa Fe, NM [Santa Fe County Municipal Airport], USA
+SAG	Sagwon, AK [Sagwon Airport], USA
+SAN	San Diego, CA [San Diego International Airport-Lindbergh Field], USA
+SAR	Sparta, IL [Sparta Community Airport-Hunter Field], USA
+SAS	Salton City, CA [Salton Sea Airport], USA
+SAT	San Antonio, TX [San Antonio International Airport], USA
+SAV	Savannah, GA [Savannah International Airport], USA
+SAW	Gwinn/Marquette, MI [K. I. Sawyer Air Force Base], USA
+SBA	Santa Barbara, CA [Santa Barbara Municipal Airport], USA
+SBD	San Bernardino, CA [San Bernardino International Airport], USA
+SBG	Irving, TX [Surtran Building/McDavid Pontiac Company Heliport], USA
+SBM	Sheboygan, WI [Sheboygan County Memorial Airport], USA
+SBN	South Bend, IN [Michiana Regional Transportation Center Airport], USA
+SBO	Salina, UT [Salina-Gunnison Airport], USA
+SBP	San Luis Obispo, CA [San Luis Obispo County Airport-McChesney Field], USA
+SBS	Steamboat Springs, CO [Steamboat Springs/Bob Adams Field STOL], USA
+SBT	San Bernardino, CA [County Heliport], USA
+SBX	Shelby, MT [Shelby Airport], USA
+SBY	Salisbury, MD [Salisbury-Wicomico County Regional Airport], USA
+SCB	Scribner, NE [Scribner State Airport], USA
+SCC	Prudhoe Bay/Deadhorse, AK [Deadhorse Airport], USA
+SCE	State College, PA, USA
+SCF	Scottsdale, AZ [Scottsdale Airport], USA
+SCH	Schenectady, NY [Schenectady County Airport], USA
+SCJ	Smith Cove, AK, USA
+SCK	Stockton, CA [Stockton Metropolitan Airport], USA
+SCM	Scammon Bay, AK [Scammon Bay Airport], USA
+SCR	Scranton, PA [Municipal], USA
+SDF	Louisville, KY [Standiford Field], USA
+SDM	San Diego, CA [Brown Field Municipal Airport], USA
+SDP	Sand Point, AK [Sand Point Airport], USA
+SDX	Sedona, AZ [Sedona Airport], USA
+SDY	Sidney, MT [Sidney-Richland Municipal Airport], USA
+SEA	Seattle, WA [Seattle-Tacoma International Airport], USA
+SEE	San Diego (El Cajon), CA [Gillespie Field], USA
+SEF	Sebring, FL [Sebring Regional Airport], USA
+SEG	Selinsgrove, PA [Penn Valley Airport], USA
+SEM	Selma, AL [Craig Field], USA
+SEP	Stephenville, TX [Clark Field Municipal Airport], USA
+SER	Seymour, IN [Freeman Municipal Airport], USA
+SES	Selma, AL [Craig Field], USA
+SFB	Sanford, FL [Central Florida Regional Airport], USA
+SFF	Spokane, WA [Felts Field], USA
+SFM	Sanford, ME [Sanford Municipal Airport], USA
+SFO	San Francisco, CA [San Francisco International Airport], USA
+SFR	San Fernando, CA, USA
+SFY	Springfield, MA, USA
+SFZ	Pawtucket/Smithfield, RI [North Central State Airport], USA
+SGF	Springfield, MO [Springfield Regional Airport], USA
+SGH	Springfield, OH [Springfield-Beckley Municipal Airport], USA
+SGR	Sugar Land (Houston), TX [Sugar Land Municipal Airport/Hull Field], USA
+SGT	Stuttgart, AR [Stuttgart Municipal Airport], USA
+SGU	St. George, UT [St. George Municipal Airport], USA
+SGW	Saginaw, MI [Harry W. Browne Airport], USA
+SGY	Skagway, AK [Skagway Airport], USA
+SHD	Staunton/Waynesboro/Harrisonburg, VA [Shenandoah Valley Regional Airport], USA
+SHG	Shungnak, AK [Shungnak Airport], USA
+SHH	Shishmaref, AK [Shishmaref Airport], USA
+SHN	Shelton, WA [Sanderson Field], USA
+SHQ	Southport, NC [Brunswick County Airport], USA
+SHR	Sheridan, WY [Sheridan County Airport], USA
+SHV	Shreveport, LA [Shreveport Regional Airport], USA
+SHX	Shageluk, AK [Shageluk Airport], USA
+SIK	Sikeston, MO [Sikeston Memorial Municipal Airport], USA
+SIT	Sitka, AK [Sitka Airport], USA
+SIV	Sullivan, IN [Sullivan County Airport], USA
+SIY	Montague, CA [Siskiyou County Airport], USA
+SJC	San Jose, CA [San Jose International Airport], USA
+SJN	St. Johns, AZ [St. Johns Industrial Air Park], USA
+SJT	San Angelo, TX [Mathis Field], USA
+SKA	Spokane, WA [Fairchild Air Force Base], USA
+SKF	San Antonio, TX [Kelly Air Force Base], USA
+SKJ	Sitkinak, AK, USA
+SKK	Shaktoolik, AK [Shaktoolik Airport], USA
+SKW	Skwentna, AK [Skwentna Airport], USA
+SKY	Sandusky, OH [Griffing Sandusky Airport], USA
+SLB	Storm Lake, IA [Storm Lake Municipal Airport], USA
+SLC	Salt Lake City, UT [Salt Lake City International Airport], USA
+SLE	Salem, OR [McNary Field], USA
+SLG	Siloam Springs, AR [Smith Field], USA
+SLJ	Chandler, AZ [Stellar Airpark], USA
+SLK	Saranac Lake, NY [Adirondack Regional Airport], USA
+SLN	Salina, KS [Salina Municipal Airport], USA
+SLO	Salem, IL [Salem-Leckrone Airport], USA
+SLQ	Sleetmute, AK [Sleetmute Airport], USA
+SLR	Sulphur Springs, TX [Sulphur Springs Municipal Airport], USA
+SLT	Salida, CO [Harriet Alexander Field], USA
+SMD	Fort Wayne, IN [Smith Field], USA
+SME	Somerset, KY [Somerset-Pulaski County Airport-J. T. Wilson Field], USA
+SMF	Sacramento, CA [Sacramento Metropolitan Airport], USA
+SMK	St. Michael, AK [St. Michael Airport], USA
+SMN	Salmon, ID [Lehmi County Airport], USA
+SMO	Santa Monica, CA [Santa Monica Municipal Airport], USA
+SMU	Sheep Mountain, AK [Sheep Mountain Airport], USA
+SMX	Santa Maria, CA [Santa Maria Public Airport/Capt. G. Allan Hancock Field], USA
+SNA	Orange County (Santa Ana), CA [John Wayne Airport/Orange County], USA
+SNK	Snyder, TX [Winston Field], USA
+SNL	Shawnee, OK [Shawnee Municipal Airport], USA
+SNP	St. Paul Island, AK [St. Paul Island Airport], USA
+SNS	Salinas, CA [Salinas Municipal Airport], USA
+SNY	Sidney, NE [Sidney Municipal Airport], USA
+SOL	Solomon, AK [Solomon State Field], USA
+SOP	Pinehurst/Southern Pines, NC [Moore County Airport], USA
+SOV	Seldovia, AK [Seldovia Airport], USA
+SOW	Show Low, AZ [Show Low Municipal Airport], USA
+SPA	Spartanburg, SC [Spartanburg Downtown Memorial Airport], USA
+SPF	Spearfish, SD [Black Hills Airport-Clyde Ice Field], USA
+SPG	St. Petersburg, FL [Albert Whitted Airport], USA
+SPI	Springfield, IL [Capital Airport], USA
+SPQ	San Pedro (Catalina Island), CA [Catalina Air-Sea Terminal Heliport], USA
+SPS	Wichita Falls, TX [Sheppard Air Force Base/Wichita Falls Municipal], USA
+SPW	Spencer, IA [Spencer Municipal Airport], USA
+SPX	Houston, TX [Spaceland/Houston Gulf Airport], USA
+SPZ	Springdale, AR [Springdale Municipal Airport], USA
+SQA	Santa Inez, CA, USA
+SQI	Sterling/Rock Falls, IL [Whiteside County Airport-Jos H. Bittorf Field], USA
+SQL	San Carlos, CA [San Carlos Airport], USA
+SQV	Sequim, WA [Grand View International Airport], USA
+SRC	Searcy, AR [Searcy Municipal Airport], USA
+SRQ	Sarasota/Bradenton, FL [Sarasota/Bradenton International Airport], USA
+SRU	Santa Cruz, CA, USA
+SRV	Stony River, AK [Stony River 2 Airport], USA
+SRW	Salisbury, NC [Rowan County Airport], USA
+SSC	Sumter, SC [Shaw Air Force Base], USA
+SSF	San Antonio, TX [Stinson Municipal Airport], USA
+SSI	Brunswick, GA [Malcolm McKinnon Airport], USA
+SSM	Sault Ste. Marie, MI [Sault Ste. Marie Municipal Airport/Sanderson Field], USA
+SSU	White Sulphur Springs, WV, USA
+SSW	Stuart Island, WA [Stuart Island Airpark], USA
+STC	St. Cloud, MN [St. Cloud Municipal Airport], USA
+STE	Stevens Point, WI [Stevens Point Municipal Airport], USA
+STG	St. George Island, AK [St. George Airport], USA
+STH	Strathmore, CA [Eckert Field], USA
+STJ	St. Joseph, MO [Rosecrans Memorial Airport], USA
+STK	Sterling, CO [Crosson Field], USA
+STL	St. Louis, MO [Lambert-St. Louis International Airport], USA
+STP	St. Paul, MN [St. Paul Downtown Holman Field], USA
+STQ	St. Marys, PA [St. Marys Municipal Airport], USA
+STS	Santa Rosa, CA [Sonoma County Airport], USA
+SUA	Stuart, FL [Witham Field], USA
+SUC	Sundance, WY [Schloredt Airport], USA
+SUD	Stroud, OK [Stroud Municipal Airport], USA
+SUE	Sturgeon Bay, WI [Door County Cherryland Airport], USA
+SUM	Sumter, SC [Sumter Municipal Airport], USA
+SUN	Sun Valley (Hailey), ID [Friedman Memorial Airport], USA
+SUS	St. Louis, MO [Spirit of St. Louis Airport], USA
+SUU	Fairfield, CA [Travis Air Force Base], USA
+SUW	Superior, WI [Richard I. Bong Airport], USA
+SUX	Sioux City, IA [Sioux Gateway Airport], USA
+SVA	Savoonga, AK [Savoonga Airport], USA
+SVC	Silver City, NM [Grant County Airport], USA
+SVE	Susanville, CA [Susanville Municipal Airport], USA
+SVH	Statesville, NC [Statesville Municipal Airport], USA
+SVN	Savannah, GA [Hunter Army Air Field], USA
+SVS	Stevens Village, AK [Stevens Village Airport], USA
+SVU	Savusavu, Fiji
+SVW	Sparrevohn, AK [Sparrevohn LRRS], USA
+SWD	Seward, AK [Seward Airport], USA
+SWF	Newburgh, NY [Stewart International Airport], USA
+SWO	Stillwater, OK [Stillwater Municipal Airport], USA
+SWW	Sweetwater, TX [Avenger Field], USA
+SXC	Avalon (Catalina Island), CA [Peebly Beach Seaplane Base], USA
+SXP	Sheldon Point, AK [Sheldon Point Airport], USA
+SXQ	Soldotna, AK [Soldotna Airport], USA
+SXY	Sidney, NY [Sidney Municipal Airport], USA
+SYA	Shemya Island, AK [Eareckson Air Station], USA
+SYB	Seal Bay, AK, USA
+SYF	St. Francis, KS [Cheyenne County Municipal Airport], USA
+SYI	Shelbyville, TN [Shelbyville Municipal Airport], USA
+SYL	Camp Roberts (San Miguel), CA [Roberts Army Air Field], USA
+SYN	Stanton, MN [Stanton Airfield], USA
+SYR	Syracuse, NY [Syracuse Hancock International Airport], USA
+SYV	Sylvester, GA [Sylvester Airport], USA
+SZL	Knob Noster, MO [Whiteman Air Force Base], USA
+SZN	Santa Barbara, CA [Santa Cruz Island Airport], USA
+SZP	Santa Paula, CA [Santa Paula Airport], USA
+SZY	Selmer, TN [Robert Sibley Airport], USA
+TAD	Trinidad, CO [Perry Stokes Airport], USA
+TAL	Tanana, AK [Ralph M. Calhoun Memorial Airport], USA
+TBC	Tuba City, AZ [Tuba City Airport], USA
+TBN	Fort Leonard Wood, MO [Forney Army Air Field], USA
+TBR	Statesboro, GA [Statesboro Municipal Airport], USA
+TCC	Tucumcari, NM [Tucumcari Municipal Airport], USA
+TCL	Tuscaloosa, AL [Tuscaloosa Municipal Airport], USA
+TCM	Tacoma, WA [McChord Air Force Base], USA
+TCS	Truth or Consequences, NM [Truth or Consequences Municipal Airport], USA
+TCT	Takotna, AK [Takotna Airport], USA
+TCY	Tracy, CA [Tracy Municipal Airport], USA
+TDF	Roxboro, NC [Person County Airport], USA
+TDO	Toledo, WA [Toledo Airport-Winlock Ed Carlson Memorial Field], USA
+TDW	Amarillo, TX [Tradewind Airport], USA
+TDZ	Toledo, OH [Metcalf Field], USA
+TEB	Teterboro, NJ [Teterboro Airport], USA
+TEH	Tetlin, AK [Tetlin Airport], USA
+TEK	Tatitlek, AK [Tatitlek Seaplane Base], USA
+TEX	Telluride, CO [Telluride Regional Airport], USA
+TGC	Trenton, TN [Gibson County Airport], USA
+TGE	Tuskegee, AL [Moton Field Municipal Airport], USA
+THA	Tullahoma, TN [Tullahoma Regional Airport/Wm Northern Field], USA
+THM	Thompson Falls, MT [Thompson Falls Airport], USA
+THP	Thermopolis, WY [Hot Springs County-Thermopolis Municipal Airport], USA
+THV	York, PA [York Airport], USA
+TIK	Oklahoma City, OK [Tinker Air Force Base], USA
+TIW	Tacoma, WA [Tacoma Narrows Airport], USA
+TIX	Titusville, FL [Space Center Executive Airport], USA
+TKA	Talkeetna, AK [Talkeetna Airport], USA
+TKE	Tenakee Springs, AK [Tenakee Air Force Base], USA
+TKF	Truckee, CA [Truckee-Tahoe Airport], USA
+TKI	Tokeen, AK [Tokeen Seaplane Base], USA
+TKJ	Tok, AK [Tok Airport], USA
+TKL	Taku Lodge, AK [Taku Lodge Seaplane Base], USA
+TLA	Teller, AK [Teller Airport], USA
+TLF	Telida, AK, USA
+TLH	Tallahassee, FL [Tallahassee Regional Airport], USA
+TLJ	Takotna, AK [Tatalina LRRS], USA
+TLR	Tulare, CA [Mefford Field], USA
+TLT	Tuluksak, AK [Tuluksak Airport], USA
+TMA	Tifton, GA [Henry Tift Myers Airport], USA
+TMB	Miami, FL [Kendall-Tamiami Executive Airport], USA
+TNC	Tin City, AK [Tin City LRRS], USA
+TNK	Tununak, AK [Tununak Airport], USA
+TNP	Twentynine Palms, CA [Twentynine Palms Airport], USA
+TNT	Miami, FL [Dade-Collier Training and Transition Airport], USA
+TNU	Newton, IA [Newton Municipal Airport], USA
+TOA	Torrance, CA [Zamperini Field], USA
+TOC	Toccoa, GA [Toccoa R. G. Letourneau Field], USA
+TOG	Togiak, AK [Togiak Airport], USA
+TOI	Troy, AL [Troy Municipal Airport], USA
+TOL	Toledo, OH [Toledo Express Airport], USA
+TOP	Topeka, KS [Philip Billard Municipal Airport], USA
+TOR	Torrington, WY [Torrington Municipal Airport], USA
+TPA	Tampa, FL [Tampa International Airport], USA
+TPF	Tampa, FL [Peter O'Knight Airport], USA
+TPH	Tonopah, NV [Tonopah Airport], USA
+TPL	Temple, TX [Draughon-Miller Municipal Airport], USA
+TPO	Tanalian, AK, USA
+TQE	Tekamah, NE [Tekamah Municipal Airport], USA
+TQK	Scott City, KS [Scott City Municipal Airport], USA
+TRH	Trona, CA [Trona Airport], USA
+TRI	Tri-Cities (Bristol/Johnson City/Kingsport), TN [Tri-City Regional Airport], USA
+TRL	Terrell, TX [Terrell Municipal Airport], USA
+TRM	Thermal, CA [Thermal Airport], USA
+TRP	Tree Point, AK, USA
+TRT	Tremonton, UT [Tremonton Municipal Airport], USA
+TRX	Trenton, MO [Trenton Municipal Airport], USA
+TSG	Tanacross, AK [Tanacross Airport], USA
+TSM	Taos, NM [Taos Municipal Airport], USA
+TSP	Tehachapi, CA [Tehachapi Municipal Airport], USA
+TSS	New York, NY [East 34th Street Heliport], USA
+TTD	Portland, OR [Portland-Troutdale Airport], USA
+TTN	Trenton, NJ [Mercer County Airport], USA
+TTO	Britton, SD [Britton Municipal Airport], USA
+TUH	Tullahoma, TN [Arnold Air Force Base], USA
+TUL	Tulsa, OK [Tulsa International Airport], USA
+TUP	Tupelo, MS [Tupelo Municipal-C.D. Lemons Airport], USA
+TUS	Tucson, AZ [Tucson International Airport], USA
+TVB	Cabool, MO [Cabool Memorial Airport], USA
+TVC	Traverse City, MI [Cherry Capital Airport], USA
+TVF	Thief River Falls, MN [Thief River Falls Regional Airport], USA
+TVI	Thomasville, GA [Thomasville Municipal Airport], USA
+TVK	Centerville, IA [Centerville Municipal Airport], USA
+TVL	Lake Tahoe (South Lake Tahoe), CA [Lake Tahoe Airport], USA
+TWA	Twin Hills, AK [Twin Hills Airport], USA
+TWE	Taylor, AK [Taylor Airport], USA
+TWF	Twin Falls, ID [Twin Falls-Sun Valley Regional Airport/Joslin Field], USA
+TWH	Avalon (Catalina Island), CA [Two Harbors Amphibious Terminal], USA
+TWM	Two Harbors, MN [Richard B. Helgeson Airport], USA
+TWO	Port Townsend, WA [Jefferson County International Airport], USA
+TXK	Texarkana, AR [Texarkana Regional Airport-Webb Field], USA
+TYE	Tyonek, AK [Tyonek Airport], USA
+TYR	Tyler, TX [Tyler Pounds Field], USA
+TYS	Knoxville, TN [McGhee Tyson Airport], USA
+TYZ	Taylor, AZ [Taylor Airport], USA
+TZV	Tompkinsville, KY [Tompkinsville-Monroe County Airport], USA
+UBE	Cumberland, WI [Cumberland Municipal Airport], USA
+UBS	Columbus, MS [Columbus-Lowndes County Airport], USA
+UBX	Cuba, MO [Cuba Municipal Airport], USA
+UCA	Utica, NY [Oneida County Airport], USA
+UCC	Yucca Flats, NV, USA
+UCE	Eunice, LA [Eunice Airport], USA
+UCY	Union City, TN [Everett-Stewart Airport], USA
+UDD	Palm Springs, CA [Bermuda Dunes Airport], USA
+UES	Waukesha, WI [Waukesha County Airport], USA
+UGA	Ugashik, AK [Ugashik (New) Airport], USA
+UGB	Pilot Point, AK [Ugashik Bay Airport], USA
+UGI	Uganik, AK, USA
+UGN	Chicago/Waukegan, IL [Waukegan Regional Airport], USA
+UIL	Quillayute, WA [Quillayute State Airport], USA
+UIN	Quincy, IL [Quincy Municipal Baldwin Field], USA
+UIZ	Utica, MI [Berz-Macomb Airport], USA
+UKF	North Wilkesboro, NC [Wilkes County Airport], USA
+UKI	Ukiah, CA [Ukiah Municipal Airport], USA
+UKL	Burlington, KS [Coffey County Airport], USA
+UKN	Waukon, IA [Waukon Municipal Airport], USA
+UKT	Quakertown, PA [Quakertown Airport], USA
+ULM	New Ulm, MN [New Ulm Municipal Airport], USA
+UMB	Umnak, AK, USA
+UMM	Summit, AK [Summit Airport], USA
+UMP	Indianapolis, IN [Indianapolis Metropolitan Airport], USA
+UMT	Umiat, AK [Umiat Airport], USA
+UNK	Unalakleet, AK [Unalakleet Airport], USA
+UNL	Unalaska, AK, USA
+UNO	West Plains, MO [West Plains Municipal Airport], USA
+UNS	Umnak Island, AK, USA
+UNU	Juneau, WI [Dodge County Airport], USA
+UNV	State College, PA [University Park], USA
+UOS	Sewanee, TN [Franklin County Airport], USA
+UOX	Oxford, MS [University-Oxford Airport], USA
+UPP	Hawi, HI [Upolu Airport], USA
+UQE	Queens, AK [The Queens Airport], USA
+URE	Greenfield, MA, USA
+USE	Wauseon, OH [Fulton County Airport], USA
+UST	St. Augustine, FL [St. Augustine Airport], USA
+UTO	Utopia Creek, AK [Indian Mountain LRRS], USA
+UTX	Jupiter, FL [William P. Gwinn Airport], USA
+UUK	Kuparuk, AK [Ugnu-Kuparuk Airport], USA
+UUV	Sullivan, MO [Sullivan Regional Airport], USA
+UVA	Uvalde, TX [Garner Field], USA
+UWA	Ware, MA [Ware Airport], USA
+UWL	New Castle, IN [New Castle-Henry County Municipal Airport], USA
+UYF	London, OH [Madison County Airport], USA
+VAD	Valdosta, GA [Moody Air Force Base], USA
+VAK	Chevak, AK [Chevak Airport], USA
+VBG	Lompoc, CA [Vandenberg Air Force Base], USA
+VBW	Bridgewater, VA [Bridgewater Air Park], USA
+VCB	View Cove, AK, USA
+VCT	Victoria, TX [Victoria Regional Airport], USA
+VCV	Victorville, CA [George Air Force Base], USA
+VCW	Colonial Williamsburg, VA, USA
+VDI	Vidalia, GA [Vidalia Municipal Airport], USA
+VDU	Refugio, TX [Tom O'Conner Airport], USA
+VDZ	Valdez, AK [Valdez Airport], USA
+VEE	Venetie, AK [Venetie Airport], USA
+VEL	Vernal, UT [Vernal Airport], USA
+VES	Versailles, OH [Darke County Airport], USA
+VEX	Tioga, ND [Tioga Municipal Airport], USA
+VGT	Las Vegas, NV [North Las Vegas Air Terminal], USA
+VHN	Van Horn, TX [Culberson County Airport], USA
+VIH	Rolla/Vichy, MO [Rolla National Airport], USA
+VIK	Kavik, AK, USA
+VIS	Visalia, CA [Visalia Municipal Airport], USA
+VJI	Abingdon, VA [Virginia Highlands Airport], USA
+VKS	Vicksburg, MS [Vicksburg Municipal Airport], USA
+VKW	West Kavi, AK, USA
+VKX	Friendly, MD [Potomac Airfield], USA
+VLA	Vandalia, IL [Vandalia Municipal Airport], USA
+VLD	Valdosta, GA [Valdosta Regional Airport], USA
+VMR	Vermillion, SD [Harold Davidson Field], USA
+VNC	Venice, FL [Venice Municipal Airport], USA
+VNW	Van Wert, OH [Van Wert County Airport], USA
+VNY	Los Angeles (Van Nuys), CA [Van Nuys Airport], USA
+VOK	Camp Douglas, WI [Volk Field], USA
+VPC	Cartersville, GA [Cartersville Airport], USA
+VPS	Fort Walton Beach (Valparaiso), FL [Eglin Air Force Base/Okaloosa County Airport], USA
+VPZ	Valparaiso, IN [Porter County Municipal Airport], USA
+VRB	Vero Beach, FL [Vero Beach Municipal Airport], USA
+VSF	Springfield, VT [Hartness State (Springfield) Airport], USA
+VTI	Vinton, IA [Vinton Veterans Memorial Airpark], USA
+VTN	Valentine, NE [Miller Field], USA
+VVV	Ortonville, MN [Ortonville Municipal Airport-Martinson Field], USA
+VYS	Peru, IL [Illinois Valley Regional Airport-Walter A. Duncan Field], USA
+WAA	Wales, AK [Wales Airport], USA
+WAH	Wahpeton, ND [Harry Stern Airport], USA
+WAL	Chincoteague, VA, USA
+WAS	Washington, DC [Metropolitan Area], USA
+WAX	Warroad, MN [Warroad International Airport-Swede Carlson Field], USA
+WAY	Waynesburg, PA [Greene County Airport], USA
+WBB	Stebbins, AK [Stebbins Airport], USA
+WBN	Woburn, MA, USA
+WBQ	Beaver, AK [Beaver Airport], USA
+WBR	Big Rapids, MI [Roben-Hood Airport], USA
+WBU	Boulder, CO [Boulder Municipal Airport], USA
+WBW	Wilkes-Barre, PA [Wilkes-Barre Wyoming Valley Airport], USA
+WCR	Chandalar Lake, AK [Chandalar Lake Airport], USA
+WDB	Deep Bay, AK, USA
+WDG	Enid, OK [Enid Woodring Municipal Airport], USA
+WDQ	Booneville, MS [Booneville/Baldwyn Airport], USA
+WDR	Winder, GA [Winder Airport], USA
+WEA	Weatherford, TX [Parker County Airport], USA
+WFB	Ketchikan, AK [Ketchikan Harbor Seaplane Base], USA
+WFK	Frenchville, ME [Northern Aroostook Regional Airport], USA
+WGO	Winchester, VA [Winchester Regional Airport], USA
+WHA	West Houston, TX, USA
+WHD	Hyder, AK [Hyder Seaplane Base], USA
+WHP	Los Angeles, CA [Whiteman Airport], USA
+WHR	Vail, CO [Vail Junction Heliport], USA
+WHT	Wharton, TX [Wharton Municipal Airport], USA
+WJF	Lancaster/Palmdale, CA [General William J. Fox Airfield], USA
+WKC	Connellsville, PA [Connellsville Airport], USA
+WKK	Aleknagik, AK [Aleknagik Airport], USA
+WKL	Waikoloa, HI [Waikoloa Airport], USA
+WKP	Grass Valley, CA [Nevada County Air Park], USA
+WLB	Labouchere Bay, AK, USA
+WLD	Winfield/Arkansas City, KS [Strother Field], USA
+WLK	Selawik, AK [Selawik Airport], USA
+WLM	Waltham, MA [Prospect Hill Airport], USA
+WLN	Little Naukati, AK, USA
+WLR	Loring, AK [Loring Seaplane Base], USA
+WLW	Willows, CA [Willows-Glenn County Airport], USA
+WMC	Winnemucca, NV [Winnemucca Municipal Airport], USA
+WMH	Mountain Home, AR [Baxter County Regional Airport], USA
+WMK	Meyers Chuck, AK [Meyers Chuck Seaplane Base], USA
+WMO	White Mountain, AK [White Mountain Airport], USA
+WNA	Napakiak, AK [Napakiak Airport], USA
+WNC	Tuxekan Island, AK [Nichin Cove Seaplane Base], USA
+WOD	Wood River, AK, USA
+WOO	Woodchopper, AK [Woodchopper Airport], USA
+WOW	Willow, AK [Willow Airport], USA
+WPO	Paonia, CO [North Fork Valley Airport], USA
+WRB	Warner Robins, GA [Robins Air Force Base], USA
+WRG	Wrangell, AK [Wrangell Airport], USA
+WRI	Wrightstown, NJ [McGuire Air Force Base], USA
+WRK	Dallas, TX [White Rock Airport], USA
+WRL	Worland, WY [Worland Municipal Airport], USA
+WSB	Steamboat Bay, AK [Steamboat Bay Seaplane Base], USA
+WSD	White Sands, NM [Condron Army Air Field], USA
+WSF	Sarichef, AK, USA
+WSG	Washington, PA [Washington County Airport], USA
+WSH	Shirley, NY [Brookhaven Airport], USA
+WSJ	San Juan, AK [San Juan (Uganik) Seaplane Base], USA
+WSK	Arlington, TX [Arlington Municipal Airport], USA
+WSL	Dallas, TX [North Dallas Heliport], USA
+WSM	Wiseman, AK [Wiseman Airport], USA
+WSN	South Naknek, AK [South Naknek nr. 2 Airport], USA
+WSS	New York, NY [Wall St. Seaplane Dock], USA
+WST	Westerly, RI [Westerly State Airport], USA
+WSX	Westsound, WA [Westsound Seaplane Base], USA
+WTC	New York, NY [World Trade Center], USA
+WTK	Noatak, AK [Noatak Airport], USA
+WTL	Tuntatuliak, AK, USA
+WTR	Whiteriver, AZ [Whiteriver Airport], USA
+WVI	Watsonville, CA [Watsonville Municipal Airport], USA
+WVL	Waterville, ME [Waterville Robert Lafleur Airport], USA
+WWA	Wasilla, AK [New Wasilla Airport], USA
+WWD	Cape May (Wildwood), NJ [Cape May County Airport], USA
+WWP	Whale Pass, AK [North Whale Seaplane Base], USA
+WWR	Woodward, OK [West Woodward Airport], USA
+WWS	Wildwood, AK, USA
+WWT	Newtok, AK [Newtok Seaplane Base], USA
+WYB	Yes Bay, AK [Yes Bay Lodge Seaplane Base], USA
+WYS	West Yellowstone, MT [Yellowstone Airport], USA
+XES	Lake Geneva, WI [Lake Geneva Aire Estates Airport], USA
+XLA	Little America, UT, USA
+XMD	Madison, SD [Madison Municipal Airport], USA
+XMQ	Simmons, MI, USA
+XMR	Cocoa Beach, FL [Cape Canaveral Air Force Station Skid Strip], USA
+XNO	North, SC [North Air Force Auxiliary Airport], USA
+XPR	Pine Ridge, SD [Pine Ridge Airport], USA
+XPU	West Kuparuk, AK, USA
+XSM	St. Mary's, MD, USA
+XSU	Tonopah, NV [Tonopah Test Range Airport], USA
+YAK	Yakutat, AK [Yakutat Airport], USA
+YIP	Detroit, MI [Willow Run Airport], USA
+YKM	Yakima, WA [Yakima Air Terminal], USA
+YKN	Yankton, SD [Chan Gurney Municipal Airport], USA
+YNG	Youngstown, OH [Youngstown-Warren Regional Airport], USA
+YUM	Yuma, AZ [Yuma Marine Corps Air Station/Yuma International], USA
+ZBV	Beaver Creek, CO, USA
+ZBX	Branson, MO [Table Rock Heliport], USA
+ZEF	Elkin, NC [Elkin Municipal Airport], USA
+ZNC	Nyack, AK, USA
+ZPH	Zephyrhills, FL [Zephyrhills Municipal Airport], USA
+ZRA	Atlantic City, NJ [Railway Station], USA
+ZRF	Rockford, IL [Clock Tower], USA
+ZSH	Santa Fe, NM [Santa Fe Bus Station], USA
+ZTL	Telluride, CO, USA
+ZUN	Zuni Pueblo, NM [Black Rock Airport], USA
+ZZV	Zanesville, OH [Zanesville Municipal Airport], USA
